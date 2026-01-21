@@ -1,0 +1,1847 @@
+[
+  {
+    "input_json": "{\"time\":\"10:00\",\"team\":\"Fenerbahçe\",\"player\":\"Wilbekin\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Wilbekin opens the game with a deep three, but it rattles out.",
+    "lang_tr":"Wilbekin maçın başında üçlüğü denedi ama şut isabet bulmadı."
+  },
+  {
+    "input_json": "{\"time\":\"09:45\",\"team\":\"Anadolu Efes\",\"player\":\"Larkin\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Larkin explodes to the rim and finishes with authority!",
+    "lang_tr":"Larkin potaya çok sert gitti ve turnikesi isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"09:28\",\"team\":\"Fenerbahçe\",\"player\":\"Motley\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Motley rises high and throws it down with a powerful dunk!",
+    "lang_tr":"Motley yükseldi ve müthiş bir smaçla bitirdi!"
+  },
+  {
+    "input_json": "{\"time\":\"09:10\",\"team\":\"Anadolu Efes\",\"player\":\"Clyburn\",\"action\":\"midrange_shot\",\"result\":\"miss\"}",
+    "lang_en":"Clyburn's pull-up jumper is short this time.",
+    "lang_tr":"Clyburn'ün orta mesafe şutu bu sefer isabet bulmadı."
+  },
+  {
+    "input_json": "{\"time\":\"08:55\",\"team\":\"Fenerbahçe\",\"player\":\"Hayes-Davis\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Hayes-Davis spots up and drains the three without hesitation!",
+    "lang_tr":"Hayes-Davis boş kaldı ve üçlüğü isabetle gönderdi!"
+  },
+  {
+    "input_json": "{\"time\":\"08:40\",\"team\":\"Anadolu Efes\",\"player\":\"Beaubois\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Beaubois answers right back with a silky smooth triple!",
+    "lang_tr":"Beaubois hemen karşılık verdi, üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"08:22\",\"team\":\"Fenerbahçe\",\"player\":\"Calathes\",\"action\":\"assist\",\"result\":\"make\"}",
+    "lang_en":"Calathes threads a perfect pass to set up the score.",
+    "lang_tr":"Calathes harika bir pas çıkardı, asist isabetle sonuçlandı."
+  },
+  {
+    "input_json": "{\"time\":\"08:05\",\"team\":\"Anadolu Efes\",\"player\":\"Oturu\",\"action\":\"hook_shot\",\"result\":\"make\"}",
+    "lang_en":"Oturu uses his strength and drops in the hook shot.",
+    "lang_tr":"Oturu gücünü kullandı ve hook şutu isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"07:48\",\"team\":\"Fenerbahçe\",\"player\":\"Guduric\",\"action\":\"turnover\",\"result\":\"make\"}",
+    "lang_en":"Guduric loses the handle and Efes forces the turnover.",
+    "lang_tr":"Guduric topu kaybetti, Efes topu çaldı."
+  },
+  {
+    "input_json": "{\"time\":\"07:30\",\"team\":\"Anadolu Efes\",\"player\":\"Thompson\",\"action\":\"layup\",\"result\":\"miss\"}",
+    "lang_en":"Thompson goes up strong but can't get it to fall.",
+    "lang_tr":"Thompson turnikeyi denedi ama isabet yok."
+  },
+  {
+    "input_json": "{\"time\":\"07:12\",\"team\":\"Fenerbahçe\",\"player\":\"Wilbekin\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin slices through the defense for a crafty finish!",
+    "lang_tr":"Wilbekin savunmayı deldi ve şık bir bitirişle isabet buldu!"
+  },
+  {
+    "input_json": "{\"time\":\"06:55\",\"team\":\"Anadolu Efes\",\"player\":\"Larkin\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Larkin pulls up from deep—nothing but net!",
+    "lang_tr":"Larkin çok uzaklardan denedi ve üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"06:38\",\"team\":\"Fenerbahçe\",\"player\":\"Motley\",\"action\":\"putback\",\"result\":\"make\"}",
+    "lang_en":"Motley cleans the glass and powers in the putback!",
+    "lang_tr":"Motley ribaundu aldı ve tamamlayarak isabet buldu!"
+  },
+  {
+    "input_json": "{\"time\":\"06:20\",\"team\":\"Anadolu Efes\",\"player\":\"Clyburn\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Clyburn jumps the passing lane and comes away with the steal!",
+    "lang_tr":"Clyburn araya girdi ve topu çaldı!"
+  },
+  {
+    "input_json": "{\"time\":\"06:05\",\"team\":\"Anadolu Efes\",\"player\":\"Beaubois\",\"action\":\"fastbreak_layup\",\"result\":\"make\"}",
+    "lang_en":"Beaubois finishes the fast break with ease.",
+    "lang_tr":"Beaubois hızlı hücumu rahat bir turnikeyle bitirdi."
+  },
+  {
+    "input_json": "{\"time\":\"05:48\",\"team\":\"Fenerbahçe\",\"player\":\"Hayes-Davis\",\"action\":\"post_move\",\"result\":\"miss\"}",
+    "lang_en":"Hayes-Davis backs down his man but the shot rims out.",
+    "lang_tr":"Hayes-Davis postta denedi ama atışı çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\":\"05:30\",\"team\":\"Anadolu Efes\",\"player\":\"Oturu\",\"action\":\"block\",\"result\":\"make\"}",
+    "lang_en":"Oturu meets him at the rim and sends it back!",
+    "lang_tr":"Oturu pota altında müthiş bir blok yaptı!"
+  },
+  {
+    "input_json": "{\"time\":\"05:12\",\"team\":\"Fenerbahçe\",\"player\":\"Guduric\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Guduric steps into the shot and knocks down the three!",
+    "lang_tr":"Guduric ritmini buldu ve üçlüğü isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"04:55\",\"team\":\"Anadolu Efes\",\"player\":\"Thompson\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Thompson calmly sinks the jumper from midrange.",
+    "lang_tr":"Thompson orta mesafeden çok rahat isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"04:38\",\"team\":\"Fenerbahçe\",\"player\":\"Calathes\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Calathes reads it perfectly and picks the pocket!",
+    "lang_tr":"Calathes müthiş sezdi ve topu çaldı!"
+  },
+  {
+    "input_json": "{\"time\":\"04:20\",\"team\":\"Fenerbahçe\",\"player\":\"Wilbekin\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin catches fire and buries another triple!",
+    "lang_tr":"Wilbekin ısındı, bir üçlük daha isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"04:02\",\"team\":\"Anadolu Efes\",\"player\":\"Larkin\",\"action\":\"floater\",\"result\":\"miss\"}",
+    "lang_en":"Larkin's floater floats just a bit too long.",
+    "lang_tr":"Larkin'in floater denemesi kısa düştü."
+  },
+  {
+    "input_json": "{\"time\":\"03:45\",\"team\":\"Fenerbahçe\",\"player\":\"Motley\",\"action\":\"free_throw\",\"result\":\"make\"}",
+    "lang_en":"Motley steps to the line and calmly converts.",
+    "lang_tr":"Motley serbest atış çizgisinde hata yapmadı."
+  },
+  {
+    "input_json": "{\"time\":\"03:28\",\"team\":\"Anadolu Efes\",\"player\":\"Clyburn\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Clyburn tries from deep but can't connect.",
+    "lang_tr":"Clyburn üçlüğü denedi ama isabet yok."
+  },
+  {
+    "input_json": "{\"time\":\"03:10\",\"team\":\"Fenerbahçe\",\"player\":\"Hayes-Davis\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Hayes-Davis attacks the closeout and finishes strong!",
+    "lang_tr":"Hayes-Davis savunmayı geçti ve güçlü bir bitiriş yaptı!"
+  },
+  {
+    "input_json": "{\"time\":\"02:55\",\"team\":\"Anadolu Efes\",\"player\":\"Beaubois\",\"action\":\"turnover\",\"result\":\"make\"}",
+    "lang_en":"Beaubois commits the turnover under pressure.",
+    "lang_tr":"Beaubois baskı altında top kaybı yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"02:38\",\"team\":\"Fenerbahçe\",\"player\":\"Guduric\",\"action\":\"assist\",\"result\":\"make\"}",
+    "lang_en":"Guduric finds the open man with a slick assist.",
+    "lang_tr":"Guduric akıllı bir pasla asist yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"02:20\",\"team\":\"Anadolu Efes\",\"player\":\"Oturu\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Oturu explodes off two feet for a thunderous dunk!",
+    "lang_tr":"Oturu iki ayakla yükseldi ve sert bir smaç bastı!"
+  },
+  {
+    "input_json": "{\"time\":\"02:05\",\"team\":\"Fenerbahçe\",\"player\":\"Calathes\",\"action\":\"layup\",\"result\":\"miss\"}",
+    "lang_en":"Calathes gets to the rim but can't finish this time.",
+    "lang_tr":"Calathes potaya gitti ama turnike isabet bulmadı."
+  },
+  {
+    "input_json": "{\"time\":\"01:48\",\"team\":\"Anadolu Efes\",\"player\":\"Larkin\",\"action\":\"assist\",\"result\":\"make\"}",
+    "lang_en":"Larkin draws the defense and dishes a beautiful assist.",
+    "lang_tr":"Larkin savunmayı üzerine çekti ve harika bir asist yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"01:30\",\"team\":\"Fenerbahçe\",\"player\":\"Wilbekin\",\"action\":\"turnover\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin throws it away trying to force the pass.",
+    "lang_tr":"Wilbekin zorlama pasla topu kaybetti."
+  },
+  {
+    "input_json": "{\"time\":\"01:12\",\"team\":\"Anadolu Efes\",\"player\":\"Thompson\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Thompson nails the three and the bench erupts!",
+    "lang_tr":"Thompson üçlüğü gönderdi, kulübe ayağa kalktı!"
+  },
+  {
+    "input_json": "{\"time\":\"00:55\",\"team\":\"Fenerbahçe\",\"player\":\"Motley\",\"action\":\"post_move\",\"result\":\"make\"}",
+    "lang_en":"Motley spins in the post and scores with touch.",
+    "lang_tr":"Motley postta döndü ve yumuşak bir bitirişle isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"00:40\",\"team\":\"Anadolu Efes\",\"player\":\"Clyburn\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Clyburn powers his way to the basket for two.",
+    "lang_tr":"Clyburn gücüyle potaya gitti ve sayıyı buldu."
+  },
+  {
+    "input_json": "{\"time\":\"00:28\",\"team\":\"Fenerbahçe\",\"player\":\"Hayes-Davis\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Hayes-Davis lets it fly at the buzzer but it's off.",
+    "lang_tr":"Hayes-Davis son anda üçlüğü denedi ama isabet yok."
+  },
+  {
+    "input_json": "{\"time\":\"00:10\",\"team\":\"Anadolu Efes\",\"player\":\"Beaubois\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Beaubois sinks the jumper as the clock winds down!",
+    "lang_tr":"Beaubois süre dolarken orta mesafe şutunu isabetle attı!"
+  },
+  {
+    "input_json": "{\"time\":\"10:00\",\"team\":\"Fenerbahçe\",\"player\":\"Thomas Walkup\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Walkup wastes no time, steps into a three and drills it to open the game!",
+    "lang_tr":"Walkup maçın başında üçlüğü gönderiyor, müthiş bir isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"09:42\",\"team\":\"Anadolu Efes\",\"player\":\"Facunda Campazzo\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Campazzo explodes to the rim but the layup just won’t fall.",
+    "lang_tr":"Campazzo potaya çok hızlı gitti ama turnike isabet bulmadı."
+  },
+  {
+    "input_json": "{\"time\":\"09:30\",\"team\":\"Fenerbahçe\",\"player\":\"Tyler Dorsey\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Dorsey rises from mid-range and calmly knocks it down.",
+    "lang_tr":"Dorsey orta mesafeden yükseldi ve şutunda isabet var."
+  },
+  {
+    "input_json": "{\"time\":\"09:05\",\"team\":\"Anadolu Efes\",\"player\":\"Sergio Llull\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Llull answers right back with a deep three, vintage stuff!",
+    "lang_tr":"Llull’dan çok uzaklardan üçlük, tam bir klas şut!"
+  },
+  {
+    "input_json": "{\"time\":\"08:50\",\"team\":\"Fenerbahçe\",\"player\":\"Donta Hall\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Hall rolls hard and throws it down with authority!",
+    "lang_tr":"Hall potaya devrildi ve güçlü bir smaçla bitirdi!"
+  },
+  {
+    "input_json": "{\"time\":\"08:32\",\"team\":\"Anadolu Efes\",\"player\":\"Walter Tavares\",\"action\":\"hook_shot\",\"result\":\"make\"}",
+    "lang_en":"Tavares uses his size inside and scores with a soft hook.",
+    "lang_tr":"Tavares boyalı alanda avantajını kullandı, hook atışı isabet."
+  },
+  {
+    "input_json": "{\"time\":\"08:15\",\"team\":\"Fenerbahçe\",\"player\":\"Kostas Papanikolou\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Papanikolou tries from the corner but it rims out.",
+    "lang_tr":"Papanikolou köşeden denedi ama şut çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\":\"07:58\",\"team\":\"Anadolu Efes\",\"player\":\"Gabriel Deck\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Deck muscles his way to the basket and finishes through contact.",
+    "lang_tr":"Deck temasla potaya gitti ve sayıyı buldu."
+  },
+  {
+    "input_json": "{\"time\":\"07:40\",\"team\":\"Fenerbahçe\",\"player\":\"Tyson Ward\",\"action\":\"cut\",\"result\":\"make\"}",
+    "lang_en":"Ward cuts perfectly and gets the easy bucket.",
+    "lang_tr":"Ward harika kat etti, bomboş pozisyonda isabet."
+  },
+  {
+    "input_json": "{\"time\":\"07:22\",\"team\":\"Anadolu Efes\",\"player\":\"Andres Feliz\",\"action\":\"turnover\",\"result\":\"miss\"}",
+    "lang_en":"Feliz loses the handle and gives it away under pressure.",
+    "lang_tr":"Feliz baskı altında topu kaybetti, basit bir top kaybı."
+  },
+  {
+    "input_json": "{\"time\":\"07:05\",\"team\":\"Fenerbahçe\",\"player\":\"Thomas Walkup\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Walkup jumps the passing lane and comes up with a huge steal!",
+    "lang_tr":"Walkup araya girdi, kritik bir top çalma!"
+  },
+  {
+    "input_json": "{\"time\":\"06:48\",\"team\":\"Fenerbahçe\",\"player\":\"Tyler Dorsey\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Dorsey pulls up in transition… splash! Another three!",
+    "lang_tr":"Dorsey hızlı hücumda durdu ve üçlüğü isabetli!"
+  },
+  {
+    "input_json": "{\"time\":\"06:30\",\"team\":\"Anadolu Efes\",\"player\":\"Facunda Campazzo\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Campazzo fires from deep but it’s off the mark.",
+    "lang_tr":"Campazzo üçlüğü denedi ama isabet yok."
+  },
+  {
+    "input_json": "{\"time\":\"06:12\",\"team\":\"Fenerbahçe\",\"player\":\"Donta Hall\",\"action\":\"block\",\"result\":\"make\"}",
+    "lang_en":"Hall sends it back with a monstrous block!",
+    "lang_tr":"Hall’dan müthiş bir blok, tribünler ayağa kalktı!"
+  },
+  {
+    "input_json": "{\"time\":\"05:55\",\"team\":\"Anadolu Efes\",\"player\":\"Sergio Llull\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Llull creates space and sinks the tough jumper.",
+    "lang_tr":"Llull boşluğu yarattı ve zor şutu soktu."
+  },
+  {
+    "input_json": "{\"time\":\"05:38\",\"team\":\"Fenerbahçe\",\"player\":\"Kostas Papanikolou\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Papanikolou attacks the closeout and finishes at the rim.",
+    "lang_tr":"Papanikolou savunmayı geçti, pota altında isabet."
+  },
+  {
+    "input_json": "{\"time\":\"05:20\",\"team\":\"Anadolu Efes\",\"player\":\"Walter Tavares\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Tavares hammers it home with a two-handed slam!",
+    "lang_tr":"Tavares iki elle çok sert bir smaç vurdu!"
+  },
+  {
+    "input_json": "{\"time\":\"05:05\",\"team\":\"Fenerbahçe\",\"player\":\"Tyson Ward\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Ward’s three is halfway down but pops back out.",
+    "lang_tr":"Ward’ın üçlüğü çemberden döndü, şanssız bir atış."
+  },
+  {
+    "input_json": "{\"time\":\"04:48\",\"team\":\"Anadolu Efes\",\"player\":\"Gabriel Deck\",\"action\":\"rebound_putback\",\"result\":\"make\"}",
+    "lang_en":"Deck crashes the glass and scores on the putback.",
+    "lang_tr":"Deck hücum ribaundunu aldı ve tamamladı."
+  },
+  {
+    "input_json": "{\"time\":\"04:30\",\"team\":\"Fenerbahçe\",\"player\":\"Thomas Walkup\",\"action\":\"assist\",\"result\":\"make\"}",
+    "lang_en":"Walkup threads the needle with a beautiful assist.",
+    "lang_tr":"Walkup’tan harika bir asist, oyun görüşü üst düzey."
+  },
+  {
+    "input_json": "{\"time\":\"04:12\",\"team\":\"Fenerbahçe\",\"player\":\"Donta Hall\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Hall finishes the play with a thunderous dunk!",
+    "lang_tr":"Hall pası aldı ve gürültülü bir smaçla bitirdi!"
+  },
+  {
+    "input_json": "{\"time\":\"03:55\",\"team\":\"Anadolu Efes\",\"player\":\"Andres Feliz\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Feliz knocks down a big three to keep Efes close.",
+    "lang_tr":"Feliz’den kritik bir üçlük, Efes oyunda kalıyor."
+  },
+  {
+    "input_json": "{\"time\":\"03:38\",\"team\":\"Fenerbahçe\",\"player\":\"Tyler Dorsey\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Dorsey goes strong but can’t get the finish.",
+    "lang_tr":"Dorsey potaya gitti ama atışı kaçtı."
+  },
+  {
+    "input_json": "{\"time\":\"03:20\",\"team\":\"Anadolu Efes\",\"player\":\"Facunda Campazzo\",\"action\":\"assist\",\"result\":\"make\"}",
+    "lang_en":"Campazzo delivers a no-look dime, what a pass!",
+    "lang_tr":"Campazzo’dan nefis bir asist, gözler arkadaydı!"
+  },
+  {
+    "input_json": "{\"time\":\"03:02\",\"team\":\"Anadolu Efes\",\"player\":\"Walter Tavares\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Tavares catches deep and lays it in with ease.",
+    "lang_tr":"Tavares derinde topu aldı, rahat bir turnike."
+  },
+  {
+    "input_json": "{\"time\":\"02:45\",\"team\":\"Fenerbahçe\",\"player\":\"Kostas Papanikolou\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Papanikolou reads it perfectly and steals the ball.",
+    "lang_tr":"Papanikolou pası sezdi, topu çaldı."
+  },
+  {
+    "input_json": "{\"time\":\"02:28\",\"team\":\"Fenerbahçe\",\"player\":\"Tyson Ward\",\"action\":\"fastbreak_dunk\",\"result\":\"make\"}",
+    "lang_en":"Ward flies down the floor and throws it down on the break!",
+    "lang_tr":"Ward hızlı hücumda uçtu ve smaçla bitirdi!"
+  },
+  {
+    "input_json": "{\"time\":\"02:10\",\"team\":\"Anadolu Efes\",\"player\":\"Sergio Llull\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Llull tries another deep one but this time it’s short.",
+    "lang_tr":"Llull yine denedi ama bu sefer kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\":\"01:55\",\"team\":\"Fenerbahçe\",\"player\":\"Thomas Walkup\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Walkup glides to the rim and scores with the left hand.",
+    "lang_tr":"Walkup potaya süzüldü, sol elle isabet."
+  },
+  {
+    "input_json": "{\"time\":\"01:38\",\"team\":\"Anadolu Efes\",\"player\":\"Gabriel Deck\",\"action\":\"midrange_shot\",\"result\":\"miss\"}",
+    "lang_en":"Deck’s pull-up jumper rattles out.",
+    "lang_tr":"Deck’in orta mesafe şutu çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\":\"01:20\",\"team\":\"Fenerbahçe\",\"player\":\"Tyler Dorsey\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Dorsey from way outside… money! He’s heating up!",
+    "lang_tr":"Dorsey çok geriden gönderdi, müthiş bir üçlük!"
+  },
+  {
+    "input_json": "{\"time\":\"01:02\",\"team\":\"Anadolu Efes\",\"player\":\"Andres Feliz\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Feliz attacks the lane and finishes softly.",
+    "lang_tr":"Feliz çizgiye girdi, yumuşak bir bitiriş."
+  },
+  {
+    "input_json": "{\"time\":\"00:45\",\"team\":\"Fenerbahçe\",\"player\":\"Donta Hall\",\"action\":\"rebound\",\"result\":\"make\"}",
+    "lang_en":"Hall skies for the rebound, controlling the paint.",
+    "lang_tr":"Hall ribaundu söktü aldı, pota altını domine ediyor."
+  },
+  {
+    "input_json": "{\"time\":\"00:30\",\"team\":\"Fenerbahçe\",\"player\":\"Kostas Papanikolou\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Papanikolou beats the buzzer with a clutch three!",
+    "lang_tr":"Papanikolou’dan son saniyede üçlük, büyük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"00:12\",\"team\":\"Anadolu Efes\",\"player\":\"Facunda Campazzo\",\"action\":\"turnover\",\"result\":\"miss\"}",
+    "lang_en":"Campazzo forces it late and turns it over.",
+    "lang_tr":"Campazzo son anda zorladı ve top kaybı yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"00:00\",\"team\":\"Fenerbahçe\",\"player\":\"Thomas Walkup\",\"action\":\"defensive_stop\",\"result\":\"make\"}",
+    "lang_en":"And Walkup seals the quarter with strong defense as the buzzer sounds.",
+    "lang_tr":"Walkup savunmada geçit vermedi, çeyrek bu şekilde sona eriyor."
+  },
+  {
+    "input_json": "{\"time\":\"10:00\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin wastes no time, rising up from deep and drilling the opening three!",
+    "lang_tr":"Wilbekin hiç beklemedi, üçlüğü gönderdi ve isabeti buldu!"
+  },
+  {
+    "input_json": "{\"time\":\"09:42\",\"team\":\"Anadolu Efes\",\"player\":\"Thomas Walkup\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Walkup attacks the lane but can't get the finish to fall.",
+    "lang_tr":"Walkup potaya gitti ama bitirişte isabet yok."
+  },
+  {
+    "input_json": "{\"time\":\"09:25\",\"team\":\"Fenerbahçe\",\"player\":\"Khem-Birch\",\"action\":\"rebound_putback\",\"result\":\"make\"}",
+    "lang_en":"Birch muscles inside and powers in the putback!",
+    "lang_tr":"Birch ribaundu aldı, ikinci hamlede potayı buldu!"
+  },
+  {
+    "input_json": "{\"time\":\"09:02\",\"team\":\"Anadolu Efes\",\"player\":\"Tyler Dorsey\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Dorsey answers right back with a cold-blooded triple!",
+    "lang_tr":"Dorsey cevap verdi, üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"08:45\",\"team\":\"Fenerbahçe\",\"player\":\"Wade Baldwin\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Baldwin explodes to the rim and finishes through contact!",
+    "lang_tr":"Baldwin patlayıcı bir hamleyle potaya gitti, bitirdi!"
+  },
+  {
+    "input_json": "{\"time\":\"08:21\",\"team\":\"Anadolu Efes\",\"player\":\"Kostas Papanikolou\",\"action\":\"turnover\",\"result\":\"make\"}",
+    "lang_en":"Papanikolou loses the handle, a costly turnover.",
+    "lang_tr":"Papanikolou topu kaybetti, kritik bir top kaybı."
+  },
+  {
+    "input_json": "{\"time\":\"08:05\",\"team\":\"Fenerbahçe\",\"player\":\"Devon Hall\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Hall lets it fly from the corner, but it rattles out.",
+    "lang_tr":"Devon Hall köşeden denedi, şut çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\":\"07:48\",\"team\":\"Anadolu Efes\",\"player\":\"Donta Hall\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Donta Hall rises above everyone for a thunderous dunk!",
+    "lang_tr":"Donta Hall yükseldi ve müthiş bir smaç vurdu!"
+  },
+  {
+    "input_json": "{\"time\":\"07:30\",\"team\":\"Fenerbahçe\",\"player\":\"Tarık Biberoviç\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Biberović catches and fires—pure from downtown!",
+    "lang_tr":"Biberović yakaladı, gönderdi ve üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"07:10\",\"team\":\"Anadolu Efes\",\"player\":\"Tyson Ward\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Ward drives strong but is denied at the rim.",
+    "lang_tr":"Ward potaya yüklendi ama bitiremedi."
+  },
+  {
+    "input_json": "{\"time\":\"06:55\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin jumps the passing lane and picks it clean!",
+    "lang_tr":"Wilbekin araya girdi, topu çaldı!"
+  },
+  {
+    "input_json": "{\"time\":\"06:42\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin converts the steal into an easy layup.",
+    "lang_tr":"Wilbekin top çalmayı turnike ile tamamladı."
+  },
+  {
+    "input_json": "{\"time\":\"06:20\",\"team\":\"Anadolu Efes\",\"player\":\"Thomas Walkup\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Walkup's three is long off the back iron.",
+    "lang_tr":"Walkup'ın üçlüğü kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\":\"06:05\",\"team\":\"Fenerbahçe\",\"player\":\"Khem-Birch\",\"action\":\"block\",\"result\":\"make\"}",
+    "lang_en":"Birch swats it away with authority!",
+    "lang_tr":"Birch müthiş bir blokla izin vermedi!"
+  },
+  {
+    "input_json": "{\"time\":\"05:48\",\"team\":\"Anadolu Efes\",\"player\":\"Tyler Dorsey\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Dorsey calmly knocks down the pull-up jumper.",
+    "lang_tr":"Dorsey orta mesafeden soğukkanlı bir isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"05:30\",\"team\":\"Fenerbahçe\",\"player\":\"Wade Baldwin\",\"action\":\"turnover\",\"result\":\"make\"}",
+    "lang_en":"Baldwin slips and turns it over.",
+    "lang_tr":"Baldwin ayağı kaydı, top kaybı geldi."
+  },
+  {
+    "input_json": "{\"time\":\"05:12\",\"team\":\"Anadolu Efes\",\"player\":\"Donta Hall\",\"action\":\"rebound_putback\",\"result\":\"make\"}",
+    "lang_en":"Donta Hall cleans the glass and scores inside.",
+    "lang_tr":"Donta Hall ribaundu aldı, pota altından tamamladı."
+  },
+  {
+    "input_json": "{\"time\":\"04:55\",\"team\":\"Fenerbahçe\",\"player\":\"Devon Hall\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Devon Hall slices through the defense for two.",
+    "lang_tr":"Devon Hall savunmayı yardı, iki sayıyı buldu."
+  },
+  {
+    "input_json": "{\"time\":\"04:40\",\"team\":\"Anadolu Efes\",\"player\":\"Kostas Papanikolou\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Papanikolou drains the three from the wing!",
+    "lang_tr":"Papanikolou kanattan üçlüğü soktu!"
+  },
+  {
+    "input_json": "{\"time\":\"04:18\",\"team\":\"Fenerbahçe\",\"player\":\"Tarık Biberoviç\",\"action\":\"turnover\",\"result\":\"make\"}",
+    "lang_en":"Biberović throws it away under pressure.",
+    "lang_tr":"Biberović baskı altında topu kaybetti."
+  },
+  {
+    "input_json": "{\"time\":\"04:00\",\"team\":\"Anadolu Efes\",\"player\":\"Tyson Ward\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Ward steps into it and nails the triple!",
+    "lang_tr":"Ward ritmini buldu, üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"03:42\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"midrange_shot\",\"result\":\"miss\"}",
+    "lang_en":"Wilbekin's floater just won't drop.",
+    "lang_tr":"Wilbekin'in floater'ı çemberden döndü."
+  },
+  {
+    "input_json": "{\"time\":\"03:28\",\"team\":\"Anadolu Efes\",\"player\":\"Thomas Walkup\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Walkup anticipates perfectly and comes away with the steal.",
+    "lang_tr":"Walkup sezdi, topu çaldı!"
+  },
+  {
+    "input_json": "{\"time\":\"03:15\",\"team\":\"Anadolu Efes\",\"player\":\"Thomas Walkup\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Walkup goes coast to coast for the layup.",
+    "lang_tr":"Walkup baştan sona gitti, turnikeyi bıraktı."
+  },
+  {
+    "input_json": "{\"time\":\"02:58\",\"team\":\"Fenerbahçe\",\"player\":\"Wade Baldwin\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Baldwin responds with a huge three-pointer!",
+    "lang_tr":"Baldwin'den çok kritik bir üçlük geldi!"
+  },
+  {
+    "input_json": "{\"time\":\"02:40\",\"team\":\"Anadolu Efes\",\"player\":\"Tyler Dorsey\",\"action\":\"turnover\",\"result\":\"make\"}",
+    "lang_en":"Dorsey called for an offensive foul, turnover.",
+    "lang_tr":"Dorsey hücum faul yaptı, top kaybı."
+  },
+  {
+    "input_json": "{\"time\":\"02:22\",\"team\":\"Fenerbahçe\",\"player\":\"Khem-Birch\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Birch hammers it down with both hands!",
+    "lang_tr":"Birch iki eliyle sert bir smaç vurdu!"
+  },
+  {
+    "input_json": "{\"time\":\"02:05\",\"team\":\"Anadolu Efes\",\"player\":\"Kostas Papanikolou\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Papanikolou goes strong but can't finish over the defense.",
+    "lang_tr":"Papanikolou potaya gitti ama savunma izin vermedi."
+  },
+  {
+    "input_json": "{\"time\":\"01:50\",\"team\":\"Fenerbahçe\",\"player\":\"Devon Hall\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Devon Hall pokes it free and takes possession.",
+    "lang_tr":"Devon Hall topu söktü aldı, top çalma!"
+  },
+  {
+    "input_json": "{\"time\":\"01:35\",\"team\":\"Fenerbahçe\",\"player\":\"Tarık Biberoviç\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Biberović finishes the break with a smooth layup.",
+    "lang_tr":"Biberović hızlı hücumu turnike ile bitirdi."
+  },
+  {
+    "input_json": "{\"time\":\"01:18\",\"team\":\"Anadolu Efes\",\"player\":\"Donta Hall\",\"action\":\"block\",\"result\":\"make\"}",
+    "lang_en":"Donta Hall meets him at the rim with a massive block!",
+    "lang_tr":"Donta Hall pota altında dev bir blok yaptı!"
+  },
+  {
+    "input_json": "{\"time\":\"01:00\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin hits another three, the crowd is roaring!",
+    "lang_tr":"Wilbekin bir üçlük daha soktu, tribünler ayakta!"
+  },
+  {
+    "input_json": "{\"time\":\"00:45\",\"team\":\"Anadolu Efes\",\"player\":\"Tyson Ward\",\"action\":\"midrange_shot\",\"result\":\"miss\"}",
+    "lang_en":"Ward's jumper is off the mark.",
+    "lang_tr":"Ward'ın şutu isabetli değil."
+  },
+  {
+    "input_json": "{\"time\":\"00:30\",\"team\":\"Fenerbahçe\",\"player\":\"Wade Baldwin\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Baldwin blows by his man and scores again!",
+    "lang_tr":"Baldwin adamını geçti, sayıyı buldu!"
+  },
+  {
+    "input_json": "{\"time\":\"00:18\",\"team\":\"Anadolu Efes\",\"player\":\"Tyler Dorsey\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Dorsey beats the buzzer with a clutch three!",
+    "lang_tr":"Dorsey bitime doğru üçlüğü soktu!"
+  },
+  {
+    "input_json": "{\"time\":\"00:05\",\"team\":\"Fenerbahçe\",\"player\":\"Khem-Birch\",\"action\":\"rebound\",\"result\":\"make\"}",
+    "lang_en":"Birch secures the final rebound of the quarter.",
+    "lang_tr":"Khem Birch periyodun son ribaundunu aldı."
+  },
+  {
+    "input_json": "{\"time\":\"10:00\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Wilbekin opens the derby with a fearless pull-up from deep, and he drills it!",
+    "lang_tr":"Wilbekin maçın başında üçlüğü gönderdi, müthiş bir isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"09:42\",\"team\":\"Anadolu Efes\",\"player\":\"Shane Larkin\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Larkin attacks the lane with speed, but the finish just won't fall.",
+    "lang_tr":"Larkin potaya çok sert gitti ama turnikesi isabet bulmadı."
+  },
+  {
+    "input_json": "{\"time\":\"09:18\",\"team\":\"Fenerbahçe\",\"player\":\"Johnathan Motley\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Motley explodes to the rim and throws it down with authority!",
+    "lang_tr":"Motley potaya yükseldi ve sert bir smaçla bitirdi!"
+  },
+  {
+    "input_json": "{\"time\":\"08:55\",\"team\":\"Anadolu Efes\",\"player\":\"Will Clyburn\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Clyburn rises from the elbow and calmly knocks it in.",
+    "lang_tr":"Clyburn orta mesafeden yükseldi ve rahat bir isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"08:31\",\"team\":\"Fenerbahçe\",\"player\":\"Nigel Hayes-Davis\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Hayes-Davis lets it fly from the corner, but it rattles out.",
+    "lang_tr":"Hayes-Davis köşeden denedi ama üçlüğü çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\":\"08:10\",\"team\":\"Anadolu Efes\",\"player\":\"Vincent Poirier Thompson\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Thompson sneaks inside and finishes softly off the glass.",
+    "lang_tr":"Thompson pota altına sızdı ve yumuşak bir turnikeyle bitirdi."
+  },
+  {
+    "input_json": "{\"time\":\"07:48\",\"team\":\"Fenerbahçe\",\"player\":\"Nick Calathes\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Calathes reads the defense perfectly and glides in for two.",
+    "lang_tr":"Calathes savunmayı iyi okudu ve iki sayıyı bıraktı."
+  },
+  {
+    "input_json": "{\"time\":\"07:22\",\"team\":\"Anadolu Efes\",\"player\":\"Rodrigue Beaubois\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Beaubois fires in rhythm and splashes the triple!",
+    "lang_tr":"Beaubois ritmini buldu ve üçlüğü isabetle gönderdi!"
+  },
+  {
+    "input_json": "{\"time\":\"07:01\",\"team\":\"Fenerbahçe\",\"player\":\"Marko Guduric\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Guduric stops on a dime and buries the jumper.",
+    "lang_tr":"Guduric durdu, yükseldi ve orta mesafe isabetini buldu."
+  },
+  {
+    "input_json": "{\"time\":\"06:35\",\"team\":\"Anadolu Efes\",\"player\":\"Shane Larkin\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Larkin pulls from way beyond the arc… pure money!",
+    "lang_tr":"Larkin çok uzaklardan denedi ve net bir üçlük isabeti!"
+  },
+  {
+    "input_json": "{\"time\":\"06:12\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Wilbekin slices through but the layup spins off the rim.",
+    "lang_tr":"Wilbekin potaya girdi ama turnikesi çemberden döndü."
+  },
+  {
+    "input_json": "{\"time\":\"05:50\",\"team\":\"Anadolu Efes\",\"player\":\"Daniel Oturu\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Oturu soars above everyone and slams it home!",
+    "lang_tr":"Oturu yükseldi ve potayı sallayan bir smaç vurdu!"
+  },
+  {
+    "input_json": "{\"time\":\"05:28\",\"team\":\"Fenerbahçe\",\"player\":\"Nigel Hayes-Davis\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Hayes-Davis muscles his way inside and finishes through contact!",
+    "lang_tr":"Hayes-Davis temas alarak potaya gitti ve bitirdi, büyük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"05:02\",\"team\":\"Anadolu Efes\",\"player\":\"Will Clyburn\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Clyburn tries from deep, but the shot comes up short.",
+    "lang_tr":"Clyburn üçlüğü denedi ama isabet çıkmadı."
+  },
+  {
+    "input_json": "{\"time\":\"04:40\",\"team\":\"Fenerbahçe\",\"player\":\"Johnathan Motley\",\"action\":\"hook_shot\",\"result\":\"make\"}",
+    "lang_en":"Motley turns over his shoulder and drops in the hook.",
+    "lang_tr":"Motley sırtı dönük oynadı ve hook atışıyla isabeti buldu."
+  },
+  {
+    "input_json": "{\"time\":\"04:18\",\"team\":\"Anadolu Efes\",\"player\":\"Rodrigue Beaubois\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Beaubois accelerates to the rim but can't finish.",
+    "lang_tr":"Beaubois hızlandı ama pota altında isabet bulamadı."
+  },
+  {
+    "input_json": "{\"time\":\"03:55\",\"team\":\"Fenerbahçe\",\"player\":\"Nick Calathes\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Calathes steps into the shot and knocks down the three!",
+    "lang_tr":"Calathes adımını ayarladı ve üçlüğü isabetle gönderdi!"
+  },
+  {
+    "input_json": "{\"time\":\"03:31\",\"team\":\"Anadolu Efes\",\"player\":\"Shane Larkin\",\"action\":\"free_throw\",\"result\":\"make\"}",
+    "lang_en":"Larkin stays calm at the line and sinks the free throw.",
+    "lang_tr":"Larkin serbest atış çizgisinde hata yapmadı, isabet."
+  },
+  {
+    "input_json": "{\"time\":\"03:30\",\"team\":\"Anadolu Efes\",\"player\":\"Shane Larkin\",\"action\":\"free_throw\",\"result\":\"make\"}",
+    "lang_en":"And he completes it, nothing but net again.",
+    "lang_tr":"Devamı da geldi, yine temiz bir isabet."
+  },
+  {
+    "input_json": "{\"time\":\"03:05\",\"team\":\"Fenerbahçe\",\"player\":\"Marko Guduric\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Guduric looks confident, but the three rims out.",
+    "lang_tr":"Guduric denedi ama üçlük çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\":\"02:42\",\"team\":\"Anadolu Efes\",\"player\":\"Daniel Oturu\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Oturu cleans it up inside with a strong put-back.",
+    "lang_tr":"Oturu ribaundu aldı ve pota altında tamamladı."
+  },
+  {
+    "input_json": "{\"time\":\"02:18\",\"team\":\"Fenerbahçe\",\"player\":\"Nigel Hayes-Davis\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Hayes-Davis answers back with ice in his veins from downtown!",
+    "lang_tr":"Hayes-Davis çok kritik bir anda üçlüğü soktu, müthiş isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"01:55\",\"team\":\"Anadolu Efes\",\"player\":\"Will Clyburn\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Clyburn powers through traffic and scores at the rim.",
+    "lang_tr":"Clyburn trafiğin arasından geçti ve potayı buldu."
+  },
+  {
+    "input_json": "{\"time\":\"01:32\",\"team\":\"Fenerbahçe\",\"player\":\"Scottie Wilbekin\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Wilbekin tries to heat up again, but this one is off.",
+    "lang_tr":"Wilbekin yine denedi ama bu kez isabet yok."
+  },
+  {
+    "input_json": "{\"time\":\"01:10\",\"team\":\"Anadolu Efes\",\"player\":\"Rodrigue Beaubois\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Beaubois pulls up smoothly and drains the jumper.",
+    "lang_tr":"Beaubois durarak attı ve orta mesafede isabeti buldu."
+  },
+  {
+    "input_json": "{\"time\":\"00:48\",\"team\":\"Fenerbahçe\",\"player\":\"Johnathan Motley\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Motley hammers it home again, sending the crowd into a frenzy!",
+    "lang_tr":"Motley bir kez daha smaçladı, tribünler ayağa kalktı!"
+  },
+  {
+    "input_json": "{\"time\":\"00:25\",\"team\":\"Anadolu Efes\",\"player\":\"Shane Larkin\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Larkin launches at the buzzer, but it won't go.",
+    "lang_tr":"Larkin son anda üçlüğü gönderdi ama isabet çıkmadı."
+  },
+  {
+    "input_json": "{\"time\":\"00:05\",\"team\":\"Fenerbahçe\",\"player\":\"Nick Calathes\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Calathes sneaks in at the horn and finishes brilliantly!",
+    "lang_tr":"Calathes son saniyede potaya sızdı ve harika bitirdi!"
+  },
+  {
+    "input_json": "{\"time\":\"10:00\",\"team\":\"Crvena Zvezda\",\"player\":\"Miloš Teodosić\",\"action\":\"jump_ball\",\"result\":\"make\"}",
+    "lang_en":"The game tips off and Teodosić calmly controls the opening possession for Crvena Zvezda.",
+    "lang_tr":"Maç başladı, hava atışını Teodosić aldı ve Kızılyıldız hücumla başladı."
+  },
+  {
+    "input_json": "{\"time\":\"09:42\",\"team\":\"Crvena Zvezda\",\"player\":\"Filip Petrušev\",\"action\":\"post_move\",\"result\":\"make\"}",
+    "lang_en":"Petrušev establishes deep position and finishes softly off the glass.",
+    "lang_tr":"Petrušev pota altında yerini aldı ve camdan yumuşak bir isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"09:18\",\"team\":\"Paris Basket\",\"player\":\"T. J. Shorts II\",\"action\":\"drive\",\"result\":\"make\"}",
+    "lang_en":"Shorts explodes off the dribble and slices through the defense for two.",
+    "lang_tr":"T. J. Shorts hızla potaya gitti ve savunmayı delip isabeti buldu."
+  },
+  {
+    "input_json": "{\"time\":\"08:55\",\"team\":\"Crvena Zvezda\",\"player\":\"Nikola Kalinić\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Kalinić lets it fly from the corner but it rattles out.",
+    "lang_tr":"Kalinić köşeden üçlüğü denedi ama şut isabetli olmadı."
+  },
+  {
+    "input_json": "{\"time\":\"08:41\",\"team\":\"Paris Basket\",\"player\":\"Joël Ayayi\",\"action\":\"rebound\",\"result\":\"make\"}",
+    "lang_en":"Ayayi skies for the defensive rebound and settles things down.",
+    "lang_tr":"Ayayi ribaundu havada aldı ve oyunu sakinleştirdi."
+  },
+  {
+    "input_json": "{\"time\":\"08:22\",\"team\":\"Paris Basket\",\"player\":\"Nadir Hifi\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Hifi catches in rhythm and drains the three without hesitation!",
+    "lang_tr":"Hifi ritmini buldu ve üçlüğü tereddütsüz isabetle gönderdi!"
+  },
+  {
+    "input_json": "{\"time\":\"08:01\",\"team\":\"Crvena Zvezda\",\"player\":\"Codi Miller-McIntyre\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Miller-McIntyre attacks the rim but can't finish through contact.",
+    "lang_tr":"Miller-McIntyre potaya yüklendi ama temas sonrası isabet bulamadı."
+  },
+  {
+    "input_json": "{\"time\":\"07:46\",\"team\":\"Paris Basket\",\"player\":\"Léopold Cavalière\",\"action\":\"putback\",\"result\":\"make\"}",
+    "lang_en":"Cavalière cleans it up with a strong putback inside.",
+    "lang_tr":"Cavalière hücum ribaundunu tamamladı ve pota altından isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"07:20\",\"team\":\"Crvena Zvezda\",\"player\":\"Dejan Davidovac\",\"action\":\"midrange_shot\",\"result\":\"make\"}",
+    "lang_en":"Davidovac rises from mid-range and knocks it down confidently.",
+    "lang_tr":"Davidovac orta mesafeden yükseldi ve kendinden emin bir isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"07:02\",\"team\":\"Paris Basket\",\"player\":\"Justin Robinson\",\"action\":\"turnover\",\"result\":\"miss\"}",
+    "lang_en":"Robinson loses the handle and gives it away under pressure.",
+    "lang_tr":"Robinson baskı altında topu kaybetti, top kaybı."
+  },
+  {
+    "input_json": "{\"time\":\"06:48\",\"team\":\"Crvena Zvezda\",\"player\":\"Nikola Kalinić\",\"action\":\"steal\",\"result\":\"make\"}",
+    "lang_en":"Kalinić jumps the passing lane and comes up with a huge steal.",
+    "lang_tr":"Kalinić pas araya girdi ve önemli bir top çalma yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"06:34\",\"team\":\"Crvena Zvezda\",\"player\":\"Nikola Kalinić\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Kalinić finishes the break with authority — a thunderous dunk!",
+    "lang_tr":"Kalinić hızlı hücumu smaçla bitirdi! Müthiş bir smaç!"
+  },
+  {
+    "input_json": "{\"time\":\"06:10\",\"team\":\"Paris Basket\",\"player\":\"T. J. Shorts II\",\"action\":\"floater\",\"result\":\"miss\"}",
+    "lang_en":"Shorts tries the floater in the lane but it comes up short.",
+    "lang_tr":"Shorts boyalı alanda floater denedi ama şut kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\":\"05:55\",\"team\":\"Crvena Zvezda\",\"player\":\"Filip Petrušev\",\"action\":\"rebound\",\"result\":\"make\"}",
+    "lang_en":"Petrušev secures the rebound and resets the offense.",
+    "lang_tr":"Petrušev ribaundu aldı ve hücumu yeniden kurdu."
+  },
+  {
+    "input_json": "{\"time\":\"05:33\",\"team\":\"Crvena Zvezda\",\"player\":\"Miloš Teodosić\",\"action\":\"assist\",\"result\":\"make\"}",
+    "lang_en":"Teodosić threads a brilliant pass that opens up the defense.",
+    "lang_tr":"Teodosić savunmayı delen harika bir asist yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"05:31\",\"team\":\"Crvena Zvezda\",\"player\":\"Filip Petrušev\",\"action\":\"layup\",\"result\":\"make\"}",
+    "lang_en":"Petrušev rewards the pass with an easy layup at the rim.",
+    "lang_tr":"Petrušev asist sonrası pota altından kolay bir isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"05:05\",\"team\":\"Paris Basket\",\"player\":\"Joël Ayayi\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Ayayi drives strong but the finish rolls off the rim.",
+    "lang_tr":"Ayayi potaya sert gitti ama top çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\":\"04:48\",\"team\":\"Crvena Zvezda\",\"player\":\"Codi Miller-McIntyre\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Miller-McIntyre steps back and buries the three!",
+    "lang_tr":"Miller-McIntyre geri adım attı ve üçlüğü isabetle gönderdi!"
+  },
+  {
+    "input_json": "{\"time\":\"04:21\",\"team\":\"Paris Basket\",\"player\":\"Nadir Hifi\",\"action\":\"turnover\",\"result\":\"miss\"}",
+    "lang_en":"Hifi forces the pass and turns it over.",
+    "lang_tr":"Hifi pası zorladı ve top kaybı yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"04:03\",\"team\":\"Crvena Zvezda\",\"player\":\"Dejan Davidovac\",\"action\":\"fastbreak_layup\",\"result\":\"make\"}",
+    "lang_en":"Davidovac sprints ahead and finishes the fast break.",
+    "lang_tr":"Davidovac hızlı hücumda öne çıktı ve turnikeyi isabetle tamamladı."
+  },
+  {
+    "input_json": "{\"time\":\"03:41\",\"team\":\"Paris Basket\",\"player\":\"Justin Robinson\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Robinson answers back with a cold-blooded three.",
+    "lang_tr":"Robinson cevap verdi, üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"03:18\",\"team\":\"Crvena Zvezda\",\"player\":\"Miloš Teodosić\",\"action\":\"turnover\",\"result\":\"miss\"}",
+    "lang_en":"Teodosić tries a risky pass and Paris gets the stop.",
+    "lang_tr":"Teodosić riskli pas denedi, Paris topu kaptı."
+  },
+  {
+    "input_json": "{\"time\":\"03:02\",\"team\":\"Paris Basket\",\"player\":\"Léopold Cavalière\",\"action\":\"hook_shot\",\"result\":\"make\"}",
+    "lang_en":"Cavalière uses his strength and scores with a soft hook.",
+    "lang_tr":"Cavalière gücünü kullandı ve hook şutla isabet buldu."
+  },
+  {
+    "input_json": "{\"time\":\"02:40\",\"team\":\"Crvena Zvezda\",\"player\":\"Nikola Kalinić\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Kalinić attacks the rim but meets stiff resistance.",
+    "lang_tr":"Kalinić potaya gitti ama savunma izin vermedi."
+  },
+  {
+    "input_json": "{\"time\":\"02:26\",\"team\":\"Paris Basket\",\"player\":\"Joël Ayayi\",\"action\":\"rebound\",\"result\":\"make\"}",
+    "lang_en":"Ayayi pulls down another important rebound.",
+    "lang_tr":"Ayayi bir ribaund daha aldı."
+  },
+  {
+    "input_json": "{\"time\":\"02:05\",\"team\":\"Paris Basket\",\"player\":\"T. J. Shorts II\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Shorts pulls up from deep and nails it!",
+    "lang_tr":"Shorts çok uzaklardan gönderdi ve üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\":\"01:42\",\"team\":\"Crvena Zvezda\",\"player\":\"Filip Petrušev\",\"action\":\"dunk\",\"result\":\"make\"}",
+    "lang_en":"Petrušev throws it down with two hands!",
+    "lang_tr":"Petrušev iki elle smaçladı!"
+  },
+  {
+    "input_json": "{\"time\":\"01:18\",\"team\":\"Paris Basket\",\"player\":\"Justin Robinson\",\"action\":\"drive\",\"result\":\"miss\"}",
+    "lang_en":"Robinson gets to the rim but can't convert.",
+    "lang_tr":"Robinson potaya kadar gitti ama bitiremedi."
+  },
+  {
+    "input_json": "{\"time\":\"01:02\",\"team\":\"Crvena Zvezda\",\"player\":\"Codi Miller-McIntyre\",\"action\":\"assist\",\"result\":\"make\"}",
+    "lang_en":"Miller-McIntyre finds the open man with a sharp pass.",
+    "lang_tr":"Miller-McIntyre boş adamı gördü ve asist yaptı."
+  },
+  {
+    "input_json": "{\"time\":\"01:00\",\"team\":\"Crvena Zvezda\",\"player\":\"Dejan Davidovac\",\"action\":\"3pt_shot\",\"result\":\"make\"}",
+    "lang_en":"Davidovac drills the three as the crowd erupts!",
+    "lang_tr":"Davidovac üçlüğü soktu, tribünler ayağa kalktı!"
+  },
+  {
+    "input_json": "{\"time\":\"00:42\",\"team\":\"Paris Basket\",\"player\":\"Nadir Hifi\",\"action\":\"midrange_shot\",\"result\":\"miss\"}",
+    "lang_en":"Hifi's pull-up jumper just won't go.",
+    "lang_tr":"Hifi'nin orta mesafe şutu isabetli olmadı."
+  },
+  {
+    "input_json": "{\"time\":\"00:28\",\"team\":\"Crvena Zvezda\",\"player\":\"Nikola Kalinić\",\"action\":\"rebound\",\"result\":\"make\"}",
+    "lang_en":"Kalinić grabs the board to keep possession alive.",
+    "lang_tr":"Kalinić ribaundu alarak hücumu sürdürdü."
+  },
+  {
+    "input_json": "{\"time\":\"00:12\",\"team\":\"Crvena Zvezda\",\"player\":\"Miloš Teodosić\",\"action\":\"3pt_shot\",\"result\":\"miss\"}",
+    "lang_en":"Teodosić launches at the buzzer but it rims out.",
+    "lang_tr":"Teodosić son saniyede üçlüğü denedi ama isabet olmadı."
+  },
+  {
+    "input_json": "{\"time\":\"00:00\",\"team\":\"Paris Basket\",\"player\":\"Joël Ayayi\",\"action\":\"rebound\",\"result\":\"make\"}",
+    "lang_en":"Ayayi secures the final rebound as the quarter comes to an end.",
+    "lang_tr":"Ayayi son ribaundu aldı ve çeyrek sona erdi."
+  },
+  {
+    "input_json": "{\"time\": \"09:45\", \"team\": \"Barcelona\", \"player\": \"Nicolas Laprovittola\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Laprovittola finds space at the top of the arc and drains it! Pure splash!",
+    "lang_tr": "Laprovittola tepede boşluğu buldu ve gönderdi... İsabet! Harika bir üçlük!"
+  },
+  {
+    "input_json": "{\"time\": \"09:22\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Howard tries to answer back quickly, but the ball rimmed out.",
+    "lang_tr": "Howard hemen cevap vermek istedi ancak top çemberin içinden çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"09:10\", \"team\": \"Barcelona\", \"player\": \"Jan Vesely\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Vesely rolls to the rim and hammers it down with two hands! What power!",
+    "lang_tr": "Vesely çembere devriliyor ve iki eliyle müthiş bir smaç basıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"08:50\", \"team\": \"Baskonia\", \"player\": \"Markquis Nowell\", \"action\": \"turnover\", \"result\": \"turnover\"}",
+    "lang_en": "Nowell tries a flashy pass but it goes straight out of bounds. Careless play.",
+    "lang_tr": "Nowell artistik bir pas denedi ama top doğrudan dışarı çıktı. Gereksiz bir kayıp."
+  },
+  {
+    "input_json": "{\"time\": \"08:35\", \"team\": \"Barcelona\", \"player\": \"Tornike Shengelia\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Shengelia bullies his way into the paint and finishes off the glass.",
+    "lang_tr": "Shengelia boyalı alanda rakiplerini ezip geçti ve turnikeyi bıraktı."
+  },
+  {
+    "input_json": "{\"time\": \"08:15\", \"team\": \"Baskonia\", \"player\": \"Kobi Simmons\", \"action\": \"steal\", \"result\": \"steal\"}",
+    "lang_en": "Simmons reads the pass perfectly and picks Laprovittola's pocket!",
+    "lang_tr": "Simmons pas kanalını çok iyi okudu ve Laprovittola'dan topu çaldı!"
+  },
+  {
+    "input_json": "{\"time\": \"08:10\", \"team\": \"Baskonia\", \"player\": \"Kobi Simmons\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Simmons on the breakaway... he takes flight for the rim-rocking slam!",
+    "lang_tr": "Simmons tek başına gidiyor... Havada süzüldü ve çemberi sarsan bir smaç!"
+  },
+  {
+    "input_json": "{\"time\": \"07:45\", \"team\": \"Barcelona\", \"player\": \"Willy Hernangómez\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Hernangómez steps out to the free throw line and knocks down the jumper.",
+    "lang_tr": "Hernangómez faul çizgisine açıldı ve orta mesafeli atışta isabeti buldu."
+  },
+  {
+    "input_json": "{\"time\": \"07:20\", \"team\": \"Baskonia\", \"player\": \"Matteo Spagnolo\", \"action\": \"layup\", \"result\": \"miss\"}",
+    "lang_en": "Spagnolo drives through the traffic but can't finish the scoop shot.",
+    "lang_tr": "Spagnolo kalabalığın arasından daldı ama zor pozisyonda turnikeyi bitiremedi."
+  },
+  {
+    "input_json": "{\"time\": \"07:18\", \"team\": \"Barcelona\", \"player\": \"Youssoupha Fall\", \"action\": \"block\", \"result\": \"block\"}",
+    "lang_en": "Not in Fall's house! He sends that shot back with authority!",
+    "lang_tr": "Fall burada geçit vermiyor! Gökyüzünden gelip bloğu vurdu!"
+  },
+  {
+    "input_json": "{\"time\": \"06:55\", \"team\": \"Barcelona\", \"player\": \"Jan Vesely\", \"action\": \"mid_range\", \"result\": \"miss\"}",
+    "lang_en": "Vesely takes his favorite jumper from the elbow but it's short.",
+    "lang_tr": "Vesely dirsekten en sevdiği şutu kullandı ama top kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\": \"06:40\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Howard stops, pops, and drops it! That's what the scoring leader does!",
+    "lang_tr": "Howard durdu, yükseldi ve gönderdi! İşte sayı makinesi sahnede!"
+  },
+  {
+    "input_json": "{\"time\": \"06:15\", \"team\": \"Barcelona\", \"player\": \"Nicolas Laprovittola\", \"action\": \"turnover\", \"result\": \"turnover\"}",
+    "lang_en": "Laprovittola loses his handle and the ball rolls into the backcourt.",
+    "lang_tr": "Laprovittola topun kontrolünü kaybetti, top geri sahaya açılıyor."
+  },
+  {
+    "input_json": "{\"time\": \"05:55\", \"team\": \"Baskonia\", \"player\": \"Rafa Villar\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Villar wide open in the corner... but he misses the mark.",
+    "lang_tr": "Villar köşede bomboş... Ancak şutu isabetsiz."
+  },
+  {
+    "input_json": "{\"time\": \"05:40\", \"team\": \"Barcelona\", \"player\": \"Willy Hernangómez\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Hernangómez collects the offensive board and flushes it down!",
+    "lang_tr": "Hernangómez hücum ribaundunu aldı ve bekletmeden smacı vurdu!"
+  },
+  {
+    "input_json": "{\"time\": \"05:20\", \"team\": \"Baskonia\", \"player\": \"Markquis Nowell\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Nowell uses his speed to get past the defense for a crafty finish.",
+    "lang_tr": "Nowell hızını kullandı, savunmayı ekarte edip turnikeyi bıraktı."
+  },
+  {
+    "input_json": "{\"time\": \"04:55\", \"team\": \"Barcelona\", \"player\": \"Tornike Shengelia\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Shengelia from deep... YES! The big man shows his range!",
+    "lang_tr": "Shengelia çok uzaktan... EVET! Uzun oyuncu menzilini konuşturdu!"
+  },
+  {
+    "input_json": "{\"time\": \"04:30\", \"team\": \"Baskonia\", \"player\": \"Matteo Spagnolo\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Spagnolo catches and shoots... bottom of the net!",
+    "lang_tr": "Spagnolo topu aldığı gibi gönderdi ve fileleri havalandırdı!"
+  },
+  {
+    "input_json": "{\"time\": \"04:10\", \"team\": \"Barcelona\", \"player\": \"Youssoupha Fall\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Fall doesn't even have to jump! He just reaches up and jams it!",
+    "lang_tr": "Fall zıplamasına gerek bile kalmadan uzanıp smacı bırakıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"03:45\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Howard creates space with a stepback and nails the long two.",
+    "lang_tr": "Howard bir geri adımla alan yarattı ve uzun ikilikte isabeti buldu."
+  },
+  {
+    "input_json": "{\"time\": \"03:20\", \"team\": \"Barcelona\", \"player\": \"Jan Vesely\", \"action\": \"layup\", \"result\": \"miss\"}",
+    "lang_en": "Vesely gets a great look at the rim but it just wouldn't fall.",
+    "lang_tr": "Vesely pota altında çok net bir pozisyon yakaladı ama top girmiyor."
+  },
+  {
+    "input_json": "{\"time\": \"03:15\", \"team\": \"Baskonia\", \"player\": \"Markquis Nowell\", \"action\": \"steal\", \"result\": \"steal\"}",
+    "lang_en": "Nowell with the quick hands! He strips the ball away!",
+    "lang_tr": "Nowell'dan çok çabuk eller! Topu çekip aldı!"
+  },
+  {
+    "input_json": "{\"time\": \"03:00\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Howard on the transition... HEAT CHECK! It's good!",
+    "lang_tr": "Howard hızlı hücumda... Mesafe tanımıyor ve isabeti buluyor!"
+  },
+  {
+    "input_json": "{\"time\": \"02:40\", \"team\": \"Barcelona\", \"player\": \"Nicolas Laprovittola\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Laprovittola wants to keep the lead, but his shot misses the mark.",
+    "lang_tr": "Laprovittola farkı korumak istiyor ama şutu çemberden sekti."
+  },
+  {
+    "input_json": "{\"time\": \"02:20\", \"team\": \"Baskonia\", \"player\": \"Kobi Simmons\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Simmons glides to the basket for an easy deuce.",
+    "lang_tr": "Simmons adeta süzülerek potaya gitti ve kolay basketi attı."
+  },
+  {
+    "input_json": "{\"time\": \"02:00\", \"team\": \"Barcelona\", \"player\": \"Willy Hernangómez\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Hernangómez with a soft touch from the paint. Classic big man play.",
+    "lang_tr": "Hernangómez boyalı alandan yumuşak bir dokunuşla basketi buldu."
+  },
+  {
+    "input_json": "{\"time\": \"01:40\", \"team\": \"Baskonia\", \"player\": \"Matteo Spagnolo\", \"action\": \"turnover\", \"result\": \"turnover\"}",
+    "lang_en": "Spagnolo gets trapped in the corner and steps on the line.",
+    "lang_tr": "Spagnolo köşede sıkıştı ve çizgiye bastı, top kaybı."
+  },
+  {
+    "input_json": "{\"time\": \"01:25\", \"team\": \"Barcelona\", \"player\": \"Tornike Shengelia\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Shengelia drives down the lane and posters the defender! Oh my!",
+    "lang_tr": "Shengelia koridoru buldu ve rakibinin üzerinden smacı vurdu! İnanılmaz!"
+  },
+  {
+    "input_json": "{\"time\": \"01:05\", \"team\": \"Baskonia\", \"player\": \"Rafa Villar\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Villar drains the corner three! The youngster is feeling it!",
+    "lang_tr": "Villar köşeden üçlüğü gönderdi ve isabet! Genç oyuncu alev aldı!"
+  },
+  {
+    "input_json": "{\"time\": \"00:50\", \"team\": \"Barcelona\", \"player\": \"Jan Vesely\", \"action\": \"block\", \"result\": \"block\"}",
+    "lang_en": "Vesely says NO! A huge rejection at the rim!",
+    "lang_tr": "Vesely hayır diyor! Pota altında muazzam bir blok!"
+  },
+  {
+    "input_json": "{\"time\": \"00:40\", \"team\": \"Barcelona\", \"player\": \"Nicolas Laprovittola\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Laprovittola weaves through the defense for a beautiful layup.",
+    "lang_tr": "Laprovittola savunmanın arasından süzülüp şık bir turnike bırakıyor."
+  },
+  {
+    "input_json": "{\"time\": \"00:25\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Howard pulls up from the logo... not this time.",
+    "lang_tr": "Howard logodan deniyor... Bu kez olmadı."
+  },
+  {
+    "input_json": "{\"time\": \"00:10\", \"team\": \"Barcelona\", \"player\": \"Youssoupha Fall\", \"action\": \"mid_range\", \"result\": \"miss\"}",
+    "lang_en": "Fall tries an unusual hook shot, but it hits the back iron.",
+    "lang_tr": "Fall alışılmadık bir çengel atış denedi ama top çemberin arkasına çarpıyor."
+  },
+  {
+    "input_json": "{\"time\": \"09:50\", \"team\": \"Baskonia\", \"player\": \"Kobi Simmons\", \"action\": \"steal\", \"result\": \"steal\"}",
+    "lang_en": "Simmons with the interception! He's off to the races!",
+    "lang_tr": "Simmons topu kesti! Şimdi hızla hücuma kalkıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"09:45\", \"team\": \"Baskonia\", \"player\": \"Markquis Nowell\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Nowell finishes the fast break with a high-off-the-glass layup.",
+    "lang_tr": "Nowell hızlı hücumu camdan sektirerek bıraktığı turnikeyle bitirdi."
+  },
+  {
+    "input_json": "{\"time\": \"09:15\", \"team\": \"Barcelona\", \"player\": \"Willy Hernangómez\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Willy rolls and dunks! The pick-and-roll worked to perfection.",
+    "lang_tr": "Willy devrildi ve smacı bastı! İkili oyun mükemmel sonuçlandı."
+  },
+  {
+    "input_json": "{\"time\": \"08:45\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Howard with a hand in his face... IT DOESN'T MATTER! Triple!",
+    "lang_tr": "Howard el üzerinden gönderdi... Hiç fark etmez! Üçlük!"
+  },
+  {
+    "input_json": "{\"time\": \"08:20\", \"team\": \"Barcelona\", \"player\": \"Tornike Shengelia\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Shengelia hits the turnaround fadeaway. Pure class.",
+    "lang_tr": "Shengelia geriye çekilerek atışı yaptı ve isabet. Gerçek bir klas."
+  },
+  {
+    "input_json": "{\"time\": \"07:55\", \"team\": \"Baskonia\", \"player\": \"Matteo Spagnolo\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Spagnolo misses the open look from the wing.",
+    "lang_tr": "Spagnolo kanattan bulduğu boş atışı değerlendiremedi."
+  },
+  {
+    "input_json": "{\"time\": \"07:30\", \"team\": \"Barcelona\", \"player\": \"Jan Vesely\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Vesely with the alley-oop slam! The crowd is on its feet!",
+    "lang_tr": "Vesely'den bir alley-oop smacı! Seyirci ayağa kalktı!"
+  },
+  {
+    "input_json": "{\"time\": \"07:10\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Howard gets to the cup and finishes among the giants.",
+    "lang_tr": "Howard potaya kadar gitti ve devlerin arasından sayıyı çıkardı."
+  },
+  {
+    "input_json": "{\"time\": \"06:45\", \"team\": \"Barcelona\", \"player\": \"Nicolas Laprovittola\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Laprovittola from downtown! He's catching fire!",
+    "lang_tr": "Laprovittola çok uzaklardan! Isınmaya başladı!"
+  },
+  {
+    "input_json": "{\"time\": \"06:20\", \"team\": \"Baskonia\", \"player\": \"Kobi Simmons\", \"action\": \"turnover\", \"result\": \"turnover\"}",
+    "lang_en": "Simmons loses his balance and travels. Turnover Baskonia.",
+    "lang_tr": "Simmons dengesini kaybetti ve hatalı yürüme yaptı. Top kaybı Baskonia."
+  },
+  {
+    "input_json": "{\"time\": \"05:55\", \"team\": \"Barcelona\", \"player\": \"Youssoupha Fall\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Fall cleans up the mess and dunks the rebound!",
+    "lang_tr": "Fall dönen topu takip etti ve ribaundu smaçla tamamladı!"
+  },
+  {
+    "input_json": "{\"time\": \"05:30\", \"team\": \"Baskonia\", \"player\": \"Markquis Nowell\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Nowell hits a massive triple! Baskonia hanging in there.",
+    "lang_tr": "Nowell'dan kritik bir üçlük! Baskonia maçın içinde kalmaya çalışıyor."
+  },
+  {
+    "input_json": "{\"time\": \"01:10\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Howard with the clutch bucket! We have a one-possession game!",
+    "lang_tr": "Howard'dan çok kritik bir basket! Fark bir hücuma kadar indi!"
+  },
+  {
+    "input_json": "{\"time\": \"00:45\", \"team\": \"Barcelona\", \"player\": \"Jan Vesely\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Vesely with the dagger! That mid-range jumper is money!",
+    "lang_tr": "Vesely fişi çekiyor! Orta mesafeli şutu adeta otomatik!"
+  },
+  {
+    "input_json": "{\"time\": \"00:20\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "HOWARD! Unbelievable shot under pressure! It's not over yet!",
+    "lang_tr": "HOWARD! Baskı altında inanılmaz bir basket! Henüz bitmedi!"
+  },
+  {
+    "input_json": "{\"time\": \"00:08\", \"team\": \"Barcelona\", \"player\": \"Nicolas Laprovittola\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Laprovittola's shot falls short... Baskonia has one last chance!",
+    "lang_tr": "Laprovittola'nın şutu kısa kaldı... Baskonia'nın son bir şansı var!"
+  },
+  {
+    "input_json": "{\"time\": \"00:01\", \"team\": \"Baskonia\", \"player\": \"Markus Howard\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Howard for the win... NO! It hits the front rim and Barcelona survives!",
+    "lang_tr": "Howard galibiyet için fırlattı... HAYIR! Top ön çemberden dönüyor, Barcelona kazanıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"09:45\", \"team\": \"Fenerbahçe\", \"player\": \"Scottie Wilbekin\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Wilbekin finds space at the top of the arc and drains it! What a start!",
+    "lang_tr": "Wilbekin yayın gerisinden boşluğu buldu ve gönderdi... İsabet! Harika bir başlangıç!"
+  },
+  {
+    "input_json": "{\"time\": \"09:20\", \"team\": \"Anadolu Efes\", \"player\": \"Darius Thompson\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Thompson slices through the defense for a smooth finger roll.",
+    "lang_tr": "Thompson savunmanın arasından süzüldü ve turnikeyle bitirdi."
+  },
+  {
+    "input_json": "{\"time\": \"08:55\", \"team\": \"Fenerbahçe\", \"player\": \"Johnathan Motley\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Calathes feeds it inside and Motley throws it down with authority!",
+    "lang_tr": "Calathes içeri besledi, Motley potayı sarsıyor! Müthiş bir smaç!"
+  },
+  {
+    "input_json": "{\"time\": \"08:35\", \"team\": \"Anadolu Efes\", \"player\": \"Shane Larkin\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Larkin tries to answer back from deep but it rattles out.",
+    "lang_tr": "Larkin hemen cevap vermek istedi ama top çemberden döndü."
+  },
+  {
+    "input_json": "{\"time\": \"08:10\", \"team\": \"Fenerbahçe\", \"player\": \"Nick Calathes\", \"action\": \"steal\", \"result\": \"make\"}",
+    "lang_en": "Calathes reads the pass perfectly and comes up with the steal!",
+    "lang_tr": "Calathes pas arasını çok iyi yaptı ve topu çaldı!"
+  },
+  {
+    "input_json": "{\"time\": \"07:45\", \"team\": \"Anadolu Efes\", \"player\": \"Will Clyburn\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Clyburn stops on a dime and hits the contested jumper.",
+    "lang_tr": "Clyburn durdu, yükseldi ve eli üzerinden isabeti buldu."
+  },
+  {
+    "input_json": "{\"time\": \"07:20\", \"team\": \"Fenerbahçe\", \"player\": \"Nigel Hayes-Davis\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Hayes-Davis from the corner... Got it! He's feeling it early!",
+    "lang_tr": "Hayes-Davis köşeden deniyor... Ve isabet! Maça çok sıcak başladı!"
+  },
+  {
+    "input_json": "{\"time\": \"06:55\", \"team\": \"Anadolu Efes\", \"player\": \"Dan Oturu\", \"action\": \"block\", \"result\": \"make\"}",
+    "lang_en": "Motley goes up strong but Oturu sends it back! Not in his house!",
+    "lang_tr": "Motley güçlü yükseldi ama Oturu geçit vermiyor! Müthiş bir blok!"
+  },
+  {
+    "input_json": "{\"time\": \"06:30\", \"team\": \"Anadolu Efes\", \"player\": \"Rodrigue Beaubois\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Beaubois gets the kick-out pass and buries the triple from the wing.",
+    "lang_tr": "Beaubois dışarı çıkan topu aldı, kanattan üçlüğü gönderdi ve isabet!"
+  },
+  {
+    "input_json": "{\"time\": \"06:05\", \"team\": \"Fenerbahçe\", \"player\": \"Marko Guduric\", \"action\": \"turnover\", \"result\": \"miss\"}",
+    "lang_en": "Guduric loses his handle under pressure and turns it over.",
+    "lang_tr": "Guduric baskı altında top kaybı yapıyor, Efes hücumu başlıyor."
+  },
+  {
+    "input_json": "{\"time\": \"05:40\", \"team\": \"Anadolu Efes\", \"player\": \"Shane Larkin\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Larkin steps back, launches... Splash! The MVP is on the board.",
+    "lang_tr": "Larkin geri çekilerek vurdu... Üçlük! Yıldız oyuncu sahneye çıkıyor."
+  },
+  {
+    "input_json": "{\"time\": \"05:15\", \"team\": \"Fenerbahçe\", \"player\": \"Johnathan Motley\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Motley battles in the paint and gets the friendly roll on the layup.",
+    "lang_tr": "Motley boyalı alanda savaştı ve turnikeyi sayıya çevirmeyi başardı."
+  },
+  {
+    "input_json": "{\"time\": \"04:50\", \"team\": \"Anadolu Efes\", \"player\": \"Will Clyburn\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Clyburn takes it baseline and hammers it home with one hand!",
+    "lang_tr": "Clyburn dip çizgiden süzüldü ve tek elle smaçı bastı!"
+  },
+  {
+    "input_json": "{\"time\": \"04:25\", \"team\": \"Fenerbahçe\", \"player\": \"Scottie Wilbekin\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Wilbekin tries a deep heat-check but it misses long.",
+    "lang_tr": "Wilbekin şansını çok uzaklardan denedi ama top kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\": \"04:00\", \"team\": \"Anadolu Efes\", \"player\": \"Dan Oturu\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Oturu rolls to the rim and finishes the alley-oop from Larkin.",
+    "lang_tr": "Larkin havaya dikti, Oturu havada bitirdi! Harika bir iş birliği."
+  },
+  {
+    "input_json": "{\"time\": \"03:35\", \"team\": \"Fenerbahçe\", \"player\": \"Marko Guduric\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Guduric uses the screen and knocks down the mid-range jumper.",
+    "lang_tr": "Guduric perdeyi kullandı ve orta mesafeden affetmedi."
+  },
+  {
+    "input_json": "{\"time\": \"03:10\", \"team\": \"Anadolu Efes\", \"player\": \"Darius Thompson\", \"action\": \"steal\", \"result\": \"make\"}",
+    "lang_en": "Thompson pokes it away from Calathes! Efes on the break!",
+    "lang_tr": "Thompson topu Calathes'ten söküp aldı! Efes hızlı hücumda!"
+  },
+  {
+    "input_json": "{\"time\": \"02:45\", \"team\": \"Anadolu Efes\", \"player\": \"Rodrigue Beaubois\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Beaubois is automatic! Another three for the French guard!",
+    "lang_tr": "Beaubois otomatiğe bağladı! Fransız garddan bir üçlük daha!"
+  },
+  {
+    "input_json": "{\"time\": \"02:20\", \"team\": \"Fenerbahçe\", \"player\": \"Nigel Hayes-Davis\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Hayes-Davis powers through the contact and gets the and-one!",
+    "lang_tr": "Hayes-Davis temasa rağmen bitirdi, basket ve faul!"
+  },
+  {
+    "input_json": "{\"time\": \"01:55\", \"team\": \"Anadolu Efes\", \"player\": \"Will Clyburn\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Clyburn looks for the triple but the ball rims out.",
+    "lang_tr": "Clyburn dışarıdan şansını denedi ancak top çemberin içinde dolanıp çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"01:30\", \"team\": \"Fenerbahçe\", \"player\": \"Nick Calathes\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Calathes catches the defense sleeping and drives all the way in.",
+    "lang_tr": "Calathes savunmanın uyumasını cezalandırdı ve turnikeyi bıraktı."
+  },
+  {
+    "input_json": "{\"time\": \"01:05\", \"team\": \"Anadolu Efes\", \"player\": \"Shane Larkin\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Larkin's speed is too much! He finishes high off the glass.",
+    "lang_tr": "Larkin çok hızlı! Panyayı kullanarak zor bir atışı sayıya çevirdi."
+  },
+  {
+    "input_json": "{\"time\": \"00:40\", \"team\": \"Fenerbahçe\", \"player\": \"Marko Guduric\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Guduric at the buzzer... YES! What a way to end the quarter!",
+    "lang_tr": "Guduric sürenin dolmasına saniyeler kala gönderdi ve isabet! Çeyrek skorla bitiyor!"
+  },
+  {
+    "input_json": "{\"time\": \"00:15\", \"team\": \"Anadolu Efes\", \"player\": \"Darius Thompson\", \"action\": \"turnover\", \"result\": \"miss\"}",
+    "lang_en": "Thompson steps out of bounds. Turnover Efes.",
+    "lang_tr": "Thompson çizgiye bastı, top Fenerbahçe'ye geçiyor."
+  },
+  {
+    "input_json": "{\"time\": \"09:40\", \"team\": \"Fenerbahçe\", \"player\": \"Johnathan Motley\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Motley opens the second with a massive flush!",
+    "lang_tr": "Motley ikinci çeyreğe müthiş bir smaçla başlıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"09:15\", \"team\": \"Anadolu Efes\", \"player\": \"Dan Oturu\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Oturu works hard on the offensive glass and puts it back in.",
+    "lang_tr": "Oturu hücum ribaundunu aldı ve ikinci şansı sayıya çevirdi."
+  },
+  {
+    "input_json": "{\"time\": \"08:50\", \"team\": \"Fenerbahçe\", \"player\": \"Scottie Wilbekin\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Wilbekin is heating up! That's another three for Scottie!",
+    "lang_tr": "Wilbekin alev aldı! Bir üçlük daha gönderiyor potaya!"
+  },
+  {
+    "input_json": "{\"time\": \"08:25\", \"team\": \"Anadolu Efes\", \"player\": \"Rodrigue Beaubois\", \"action\": \"mid_range\", \"result\": \"miss\"}",
+    "lang_en": "Beaubois pulls up for two but the ball falls short.",
+    "lang_tr": "Beaubois orta mesafeden denedi ama top kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\": \"08:00\", \"team\": \"Fenerbahçe\", \"player\": \"Nigel Hayes-Davis\", \"action\": \"block\", \"result\": \"make\"}",
+    "lang_en": "Hayes-Davis meets Clyburn at the summit! Denied!",
+    "lang_tr": "Hayes-Davis, Clyburn'e havada geçit vermedi! Müthiş blok!"
+  },
+  {
+    "input_json": "{\"time\": \"07:35\", \"team\": \"Anadolu Efes\", \"player\": \"Shane Larkin\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "You can't leave him open! Larkin punishes the defense from deep.",
+    "lang_tr": "Larkin'i boş bırakmaya gelmez! Cezayı hemen kesiyor, üçlük isabeti!"
+  },
+  {
+    "input_json": "{\"time\": \"07:10\", \"team\": \"Fenerbahçe\", \"player\": \"Nick Calathes\", \"action\": \"turnover\", \"result\": \"miss\"}",
+    "lang_en": "Calathes overcooks the pass, and it sails into the stands.",
+    "lang_tr": "Calathes'ten hatalı pas, top doğrudan dışarı çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"06:45\", \"team\": \"Anadolu Efes\", \"player\": \"Will Clyburn\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Clyburn uses his size to finish over the smaller defender.",
+    "lang_tr": "Clyburn fizik avantajını kullandı ve turnikeyle sayıyı buldu."
+  },
+  {
+    "input_json": "{\"time\": \"06:20\", \"team\": \"Fenerbahçe\", \"player\": \"Johnathan Motley\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Motley shows off the touch with a soft jumper from the elbow.",
+    "lang_tr": "Motley yumuşak bir dokunuşla orta mesafeden isabeti buluyor."
+  },
+  {
+    "input_json": "{\"time\": \"05:55\", \"team\": \"Anadolu Efes\", \"player\": \"Dan Oturu\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Oturu rolls to the cup and thunders it home!",
+    "lang_tr": "Oturu devrildi ve potayı adeta sarsarak smaçı bastı!"
+  },
+  {
+    "input_json": "{\"time\": \"05:30\", \"team\": \"Fenerbahçe\", \"player\": \"Marko Guduric\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Guduric with the open look... but it won't go down.",
+    "lang_tr": "Guduric bomboş pozisyonda... ama top fileyle buluşmadı."
+  },
+  {
+    "input_json": "{\"time\": \"05:05\", \"team\": \"Anadolu Efes\", \"player\": \"Darius Thompson\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Thompson with a beautiful Euro-step to finish at the rim.",
+    "lang_tr": "Thompson'dan şık bir Euro-step ve turnike! Çok estetik."
+  },
+  {
+    "input_json": "{\"time\": \"04:40\", \"team\": \"Fenerbahçe\", \"player\": \"Scottie Wilbekin\", \"action\": \"steal\", \"result\": \"make\"}",
+    "lang_en": "Wilbekin strips the ball away! Fenerbahçe on the move!",
+    "lang_tr": "Wilbekin topu çaldı! Fenerbahçe hızlı çıkıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"04:15\", \"team\": \"Fenerbahçe\", \"player\": \"Nigel Hayes-Davis\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Hayes-Davis on the break, and he slams it down!",
+    "lang_tr": "Hayes-Davis hızlı hücumda smacı vurdu! Arena ayakta!"
+  },
+  {
+    "input_json": "{\"time\": \"03:50\", \"team\": \"Anadolu Efes\", \"player\": \"Rodrigue Beaubois\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Beaubois is unconscious! He drains yet another long-range bomb!",
+    "lang_tr": "Beaubois şov yapıyor! Bir uzak mesafe üçlüğü daha!"
+  },
+  {
+    "input_json": "{\"time\": \"03:25\", \"team\": \"Fenerbahçe\", \"player\": \"Nick Calathes\", \"action\": \"mid_range\", \"result\": \"miss\"}",
+    "lang_en": "Calathes takes the floater but it hits the back iron.",
+    "lang_tr": "Calathes gözyaşı damlasını denedi ama top çemberin arkasına çarptı."
+  },
+  {
+    "input_json": "{\"time\": \"03:00\", \"team\": \"Anadolu Efes\", \"player\": \"Will Clyburn\", \"action\": \"steal\", \"result\": \"make\"}",
+    "lang_en": "Clyburn jumps the passing lane! He's gone!",
+    "lang_tr": "Clyburn pas arasını yaptı ve tek başına gidiyor!"
+  },
+  {
+    "input_json": "{\"time\": \"02:35\", \"team\": \"Anadolu Efes\", \"player\": \"Will Clyburn\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Clyburn finishes the steal with a highlight-reel dunk!",
+    "lang_tr": "Clyburn çaldığı topu jeneriklik bir smaçla bitirdi!"
+  },
+  {
+    "input_json": "{\"time\": \"02:10\", \"team\": \"Fenerbahçe\", \"player\": \"Johnathan Motley\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Motley gets deep position and scores with the hook shot.",
+    "lang_tr": "Motley derinde pozisyonu aldı ve kanca atışla sayıyı yaptı."
+  },
+  {
+    "input_json": "{\"time\": \"01:45\", \"team\": \"Anadolu Efes\", \"player\": \"Shane Larkin\", \"action\": \"turnover\", \"result\": \"miss\"}",
+    "lang_en": "Larkin loses his balance and the ball slips out of his hands.",
+    "lang_tr": "Larkin dengesini kaybetti, top ellerinden kayıp dışarı çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"01:20\", \"team\": \"Fenerbahçe\", \"player\": \"Marko Guduric\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Guduric steps into one... Got it! Fenerbahçe takes the lead!",
+    "lang_tr": "Guduric yay üzerinden gönderdi... İsabet! Fenerbahçe öne geçiyor!"
+  },
+  {
+    "input_json": "{\"time\": \"00:55\", \"team\": \"Anadolu Efes\", \"player\": \"Dan Oturu\", \"action\": \"block\", \"result\": \"make\"}",
+    "lang_en": "Oturu says 'No'! He rejects the layup attempt from Motley.",
+    "lang_tr": "Oturu 'hayır' diyor! Motley'nin turnikesini blokladı."
+  },
+  {
+    "input_json": "{\"time\": \"00:30\", \"team\": \"Anadolu Efes\", \"player\": \"Darius Thompson\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Thompson for the lead... No good! It misses the rim entirely.",
+    "lang_tr": "Thompson liderlik için attı ama isabet yok, top çembere bile değmedi."
+  },
+  {
+    "input_json": "{\"time\": \"00:10\", \"team\": \"Fenerbahçe\", \"player\": \"Scottie Wilbekin\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Wilbekin drives the length of the floor and finishes just before the horn!",
+    "lang_tr": "Wilbekin tüm sahayı geçti ve kornadan hemen önce turnikeyi bıraktı!"
+  },
+  {
+    "input_json": "{\"time\": \"00:02\", \"team\": \"Anadolu Efes\", \"player\": \"Shane Larkin\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Larkin's half-court heave is offline. We go to the break!",
+    "lang_tr": "Larkin'in orta sahadan denemesi başarısız. Devre arasına gidiyoruz!"
+  },
+  {
+    "input_json": "{\"time\": \"09:50\", \"team\": \"Fenerbahçe\", \"player\": \"Nigel Hayes-Davis\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Hayes-Davis starts the second half exactly how he started the first!",
+    "lang_tr": "Hayes-Davis ikinci yarıya da fırtına gibi başlıyor, üçlük isabet!"
+  },
+  {
+    "input_json": "{\"time\": \"09:55\", \"team\": \"Paris Basket\", \"player\": \"T. J. Shorts II\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Shorts bursts past his defender with an explosive first step and finishes the layup off the glass!",
+    "lang_tr": "Shorts ilk adımıyla rakibini ekarte etti ve turnikeyi camdan sektirerek sayıya çevirdi!"
+  },
+  {
+    "input_json": "{\"time\": \"09:42\", \"team\": \"Crvena Zvezda\", \"player\": \"Codi Miller-McIntyre\", \"action\": \"drive\", \"result\": \"miss\"}",
+    "lang_en": "Miller-McIntyre drives into traffic but meets a wall of defenders, forcing a tough shot that misses.",
+    "lang_tr": "Miller-McIntyre kalabalığın içine daldı ama zor pozisyonda atışı kaçırdı."
+  },
+  {
+    "input_json": "{\"time\": \"09:38\", \"team\": \"Paris Basket\", \"player\": \"Léopold Cavalière\", \"action\": \"rebound\", \"result\": \"n/a\"}",
+    "lang_en": "Cavalière skies high to rip down the defensive rebound.",
+    "lang_tr": "Cavalière yükseklere çıkarak savunma ribaundunu almayı başardı."
+  },
+  {
+    "input_json": "{\"time\": \"09:25\", \"team\": \"Paris Basket\", \"player\": \"Nadir Hifi\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Hifi pulls up in transition from deep... Kaboom! Paris strikes first from downtown!",
+    "lang_tr": "Hifi geçiş hücumunda çok geriden denedi... Ve isabet! Paris dış atışla başlıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"09:05\", \"team\": \"Crvena Zvezda\", \"player\": \"Miloš Teodosić\", \"action\": \"assist\", \"result\": \"n/a\"}",
+    "lang_en": "Teodosić threads the needle with a magical no-look pass to the paint!",
+    "lang_tr": "Teodosić bakmadan attığı o sihirli paslardan biriyle topu boyalı alana indirdi!"
+  },
+  {
+    "input_json": "{\"time\": \"09:03\", \"team\": \"Crvena Zvezda\", \"player\": \"Filip Petrušev\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Petrušev catches the dime and slams it home with authority!",
+    "lang_tr": "Petrušev harika pası yakaladı ve potada patlattı! Müthiş smaç!"
+  },
+  {
+    "input_json": "{\"time\": \"08:45\", \"team\": \"Paris Basket\", \"player\": \"Justin Robinson\", \"action\": \"turnover\", \"result\": \"n/a\"}",
+    "lang_en": "Robinson loses the handle under pressure and steps out of bounds.",
+    "lang_tr": "Robinson baskı altında topun kontrolünü kaybetti ve çizgiye bastı, top kaybı."
+  },
+  {
+    "input_json": "{\"time\": \"08:30\", \"team\": \"Crvena Zvezda\", \"player\": \"Nikola Kalinić\", \"action\": \"post_up\", \"result\": \"make\"}",
+    "lang_en": "Kalinić backs down his man, spins baseline, and kisses it off the glass.",
+    "lang_tr": "Kalinić rakibini sırtına aldı, dip çizgiye döndü ve sayıyı buldu."
+  },
+  {
+    "input_json": "{\"time\": \"08:12\", \"team\": \"Paris Basket\", \"player\": \"Joël Ayayi\", \"action\": \"mid_range\", \"result\": \"miss\"}",
+    "lang_en": "Ayayi stops on a dime at the elbow but the jumper rattles out.",
+    "lang_tr": "Ayayi serbest atış çizgisinde durup şutunu attı ama top çemberden sekti."
+  },
+  {
+    "input_json": "{\"time\": \"08:10\", \"team\": \"Crvena Zvezda\", \"player\": \"Dejan Davidovac\", \"action\": \"rebound\", \"result\": \"n/a\"}",
+    "lang_en": "Davidovac boxes out perfectly and secures the rebound for Zvezda.",
+    "lang_tr": "Davidovac pozisyonunu iyi aldı ve Zvezda adına ribaundu çekti."
+  },
+  {
+    "input_json": "{\"time\": \"07:55\", \"team\": \"Crvena Zvezda\", \"player\": \"Miloš Teodosić\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Teodosić from the parking lot... GOT IT! The maestro creates something out of nothing!",
+    "lang_tr": "Teodosić çok uzaklardan... İSABET! Maestro yine yoktan var etti!"
+  },
+  {
+    "input_json": "{\"time\": \"07:35\", \"team\": \"Paris Basket\", \"player\": \"T. J. Shorts II\", \"action\": \"assist\", \"result\": \"n/a\"}",
+    "lang_en": "Shorts draws the double team and kicks it out to the open man.",
+    "lang_tr": "Shorts ikili sıkıştırmayı üzerine çekti ve topu boştaki arkadaşına çıkardı."
+  },
+  {
+    "input_json": "{\"time\": \"07:33\", \"team\": \"Paris Basket\", \"player\": \"Léopold Cavalière\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Cavalière takes the feed and rises up for a thunderous two-handed jam!",
+    "lang_tr": "Cavalière pası aldı ve çift elle potayı sarstı! Harika bir smaç!"
+  },
+  {
+    "input_json": "{\"time\": \"07:15\", \"team\": \"Crvena Zvezda\", \"player\": \"Codi Miller-McIntyre\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Miller-McIntyre uses the screen, pulls up from the foul line, and swishes it.",
+    "lang_tr": "Miller-McIntyre perdeden çıktı, faul çizgisinden şutunu gönderdi ve deliksiz isabet."
+  },
+  {
+    "input_json": "{\"time\": \"06:58\", \"team\": \"Paris Basket\", \"player\": \"Nadir Hifi\", \"action\": \"drive\", \"result\": \"miss\"}",
+    "lang_en": "Hifi attacks the rim fearlessly but gets rejected by the help defense!",
+    "lang_tr": "Hifi korkusuzca potaya gitti ama yardım savunmasından gelen blokla durduruldu!"
+  },
+  {
+    "input_json": "{\"time\": \"06:56\", \"team\": \"Crvena Zvezda\", \"player\": \"Filip Petrušev\", \"action\": \"block\", \"result\": \"n/a\"}",
+    "lang_en": "Petrušev says NO! A massive block to protect the paint!",
+    "lang_tr": "Petrušev HAYIR diyor! Boyalı alanı savunan devasa bir blok!"
+  },
+  {
+    "input_json": "{\"time\": \"06:40\", \"team\": \"Crvena Zvezda\", \"player\": \"Dejan Davidovac\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Davidovac is wide open in the corner... but he clanks it off the rim.",
+    "lang_tr": "Davidovac köşede bomboş kaldı... ama şutu çemberden döndü."
+  },
+  {
+    "input_json": "{\"time\": \"06:22\", \"team\": \"Paris Basket\", \"player\": \"Justin Robinson\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Robinson answers right back with a triple in the defender's face!",
+    "lang_tr": "Robinson savunmacısının üzerinden üçlükle hemen cevap veriyor!"
+  },
+  {
+    "input_json": "{\"time\": \"06:00\", \"team\": \"Crvena Zvezda\", \"player\": \"Nikola Kalinić\", \"action\": \"turnover\", \"result\": \"n/a\"}",
+    "lang_en": "Kalinić tries to force a pass inside but it's intercepted.",
+    "lang_tr": "Kalinić içeriye zorlama bir pas denedi ama top araya giren rakipte kaldı."
+  },
+  {
+    "input_json": "{\"time\": \"05:58\", \"team\": \"Paris Basket\", \"player\": \"Joël Ayayi\", \"action\": \"steal\", \"result\": \"n/a\"}",
+    "lang_en": "Ayayi reads the play perfectly and picks the passing lane!",
+    "lang_tr": "Ayayi oyunu harika okudu ve pas arası yaparak topu çaldı!"
+  },
+  {
+    "input_json": "{\"time\": \"05:55\", \"team\": \"Paris Basket\", \"player\": \"Joël Ayayi\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Ayayi goes coast-to-coast for the easy transition bucket.",
+    "lang_tr": "Ayayi tüm sahayı geçti ve hızlı hücumda turnikeyi bıraktı."
+  },
+  {
+    "input_json": "{\"time\": \"05:35\", \"team\": \"Crvena Zvezda\", \"player\": \"Miloš Teodosić\", \"action\": \"foul\", \"result\": \"n/a\"}",
+    "lang_en": "Teodosić gets caught reaching in and is whistled for the foul.",
+    "lang_tr": "Teodosić topa hamle yaparken faul yaptı, hakemin düdüğü çaldı."
+  },
+  {
+    "input_json": "{\"time\": \"05:15\", \"team\": \"Paris Basket\", \"player\": \"T. J. Shorts II\", \"action\": \"floater\", \"result\": \"make\"}",
+    "lang_en": "Shorts drives into the giants and lofts a beautiful teardrop floater over them!",
+    "lang_tr": "Shorts uzunların arasına daldı ve üzerinden harika bir gözyaşı damlası bıraktı!"
+  },
+  {
+    "input_json": "{\"time\": \"04:55\", \"team\": \"Crvena Zvezda\", \"player\": \"Filip Petrušev\", \"action\": \"post_up\", \"result\": \"miss\"}",
+    "lang_en": "Petrušev works in the low post, spins, but the hook shot is short.",
+    "lang_tr": "Petrušev alçak postta çalıştı, döndü ama çengel atışı kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\": \"04:40\", \"team\": \"Paris Basket\", \"player\": \"Nadir Hifi\", \"action\": \"step_back\", \"result\": \"make\"}",
+    "lang_en": "Hifi creates space with a wicked step-back and drills the long two!",
+    "lang_tr": "Hifi geriye çekilerek kendisine alan yarattı ve uzun ikiliği gönderdi!"
+  },
+  {
+    "input_json": "{\"time\": \"04:20\", \"team\": \"Crvena Zvezda\", \"player\": \"Codi Miller-McIntyre\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Miller-McIntyre spots up from the wing... Splash! Much needed basket for Zvezda.",
+    "lang_tr": "Miller-McIntyre kanattan şutunu aldı... Ve isabet! Zvezda için çok kritik bir basket."
+  },
+  {
+    "input_json": "{\"time\": \"04:05\", \"team\": \"Paris Basket\", \"player\": \"Léopold Cavalière\", \"action\": \"offensive_foul\", \"result\": \"n/a\"}",
+    "lang_en": "Cavalière sets an illegal screen and turns the ball over.",
+    "lang_tr": "Cavalière nizami olmayan bir perdeleme yaptı, hücum faul."
+  },
+  {
+    "input_json": "{\"time\": \"03:45\", \"team\": \"Crvena Zvezda\", \"player\": \"Dejan Davidovac\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Davidovac cuts backdoor nicely and finishes the reverse layup.",
+    "lang_tr": "Davidovac arka kapıdan harika kaçtı ve ters turnikeyle bitirdi."
+  },
+  {
+    "input_json": "{\"time\": \"03:25\", \"team\": \"Paris Basket\", \"player\": \"Justin Robinson\", \"action\": \"drive\", \"result\": \"miss\"}",
+    "lang_en": "Robinson drives hard left but loses control on the way up.",
+    "lang_tr": "Robinson sol taraftan yüklendi ama topun kontrolünü kaybetti."
+  },
+  {
+    "input_json": "{\"time\": \"03:10\", \"team\": \"Crvena Zvezda\", \"player\": \"Nikola Kalinić\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Kalinić is left alone at the top of the key... Punishes the defense with a three!",
+    "lang_tr": "Kalinić tepe noktasında boş bırakıldı... Üçlükle cezayı kesti!"
+  },
+  {
+    "input_json": "{\"time\": \"02:50\", \"team\": \"Paris Basket\", \"player\": \"Joël Ayayi\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Ayayi tries to answer from the corner but it hits the side of the backboard.",
+    "lang_tr": "Ayayi köşeden cevap vermeye çalıştı ama top panyanın yanına çarptı."
+  },
+  {
+    "input_json": "{\"time\": \"02:30\", \"team\": \"Crvena Zvezda\", \"player\": \"Miloš Teodosić\", \"action\": \"free_throw\", \"result\": \"make\"}",
+    "lang_en": "Teodosić steps to the line and calmly sinks the technical free throw.",
+    "lang_tr": "Teodosić çizgiye geldi ve teknik faul atışını soğukkanlılıkla sayıya çevirdi."
+  },
+  {
+    "input_json": "{\"time\": \"02:15\", \"team\": \"Crvena Zvezda\", \"player\": \"Filip Petrušev\", \"action\": \"turnover\", \"result\": \"n/a\"}",
+    "lang_en": "Petrušev travels before putting the ball on the floor.",
+    "lang_tr": "Petrušev topu yere vurmadan önce hatalı yürüme yaptı."
+  },
+  {
+    "input_json": "{\"time\": \"02:00\", \"team\": \"Paris Basket\", \"player\": \"T. J. Shorts II\", \"action\": \"drive\", \"result\": \"make\"}",
+    "lang_en": "Nobody can stay in front of Shorts! He blows by everyone for the layup.",
+    "lang_tr": "Kimse Shorts'un önünde duramıyor! Savunmayı delip turnikeyi bıraktı."
+  },
+  {
+    "input_json": "{\"time\": \"01:45\", \"team\": \"Crvena Zvezda\", \"player\": \"Nikola Kalinić\", \"action\": \"mid_range\", \"result\": \"miss\"}",
+    "lang_en": "Kalinić pulls up for a jumper from the elbow, but it rims out.",
+    "lang_tr": "Kalinić serbest atış bölgesinden şutunu denedi ama çember kabul etmedi."
+  },
+  {
+    "input_json": "{\"time\": \"01:42\", \"team\": \"Paris Basket\", \"player\": \"Léopold Cavalière\", \"action\": \"rebound\", \"result\": \"n/a\"}",
+    "lang_en": "Cavalière fights for position and grabs the board.",
+    "lang_tr": "Cavalière pozisyon için savaştı ve ribaundu aldı."
+  },
+  {
+    "input_json": "{\"time\": \"01:30\", \"team\": \"Paris Basket\", \"player\": \"Nadir Hifi\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Hifi is feeling it! Another triple from deep, silencing the crowd!",
+    "lang_tr": "Hifi eli ısındı! Bir üçlük daha, tribünleri susturuyor!"
+  },
+  {
+    "input_json": "{\"time\": \"01:10\", \"team\": \"Crvena Zvezda\", \"player\": \"Codi Miller-McIntyre\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Miller-McIntyre finds a lane and throws it down with one hand!",
+    "lang_tr": "Miller-McIntyre koridoru buldu ve tek elle smacı vurdu!"
+  },
+  {
+    "input_json": "{\"time\": \"00:55\", \"team\": \"Paris Basket\", \"player\": \"Justin Robinson\", \"action\": \"turnover\", \"result\": \"n/a\"}",
+    "lang_en": "Robinson throws a lazy pass that gets deflected out of bounds.",
+    "lang_tr": "Robinson dikkatsiz bir pas attı ve top dışarı çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"00:40\", \"team\": \"Crvena Zvezda\", \"player\": \"Miloš Teodosić\", \"action\": \"drive\", \"result\": \"miss\"}",
+    "lang_en": "Teodosić tries a crafty scoop layup but it rolls off the rim.",
+    "lang_tr": "Teodosić kurnaz bir turnike denedi ama top çemberden sekti."
+  },
+  {
+    "input_json": "{\"time\": \"00:35\", \"team\": \"Crvena Zvezda\", \"player\": \"Dejan Davidovac\", \"action\": \"offensive_rebound\", \"result\": \"make\"}",
+    "lang_en": "Davidovac is there for the cleanup! Tips it in to keep the possession alive and score.",
+    "lang_tr": "Davidovac tamamlamak için orada! Topu tilledi ve sayıyı yaptı."
+  },
+  {
+    "input_json": "{\"time\": \"00:22\", \"team\": \"Paris Basket\", \"player\": \"Joël Ayayi\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Ayayi cuts baseline, receives the pass, and jams it reverse!",
+    "lang_tr": "Ayayi dip çizgiden kat etti, pası aldı ve ters smacı bastı!"
+  },
+  {
+    "input_json": "{\"time\": \"00:15\", \"team\": \"Crvena Zvezda\", \"player\": \"Filip Petrušev\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Big time shot! Petrušev pops out to the arc and buries the three!",
+    "lang_tr": "Büyük bir şut! Petrušev yayın dışına açıldı ve üçlüğü gömdü!"
+  },
+  {
+    "input_json": "{\"time\": \"00:10\", \"team\": \"Paris Basket\", \"player\": \"T. J. Shorts II\", \"action\": \"free_throw\", \"result\": \"make\"}",
+    "lang_en": "Shorts draws the contact and sinks the first free throw.",
+    "lang_tr": "Shorts teması aldı ve ilk serbest atışta isabet buldu."
+  },
+  {
+    "input_json": "{\"time\": \"00:10\", \"team\": \"Paris Basket\", \"player\": \"T. J. Shorts II\", \"action\": \"free_throw\", \"result\": \"make\"}",
+    "lang_en": "And he makes the second one, calm under pressure.",
+    "lang_tr": "Ve ikincisini de atıyor, baskı altında çok sakin."
+  },
+  {
+    "input_json": "{\"time\": \"00:05\", \"team\": \"Crvena Zvezda\", \"player\": \"Nikola Kalinić\", \"action\": \"block\", \"result\": \"n/a\"}",
+    "lang_en": "Kalinić with a huge defensive play! Swats the ball away to preserve the lead!",
+    "lang_tr": "Kalinić'ten devasa bir savunma hamlesi! Topu blokladı ve liderliği korudu!"
+  },
+  {
+    "input_json": "{\"time\": \"00:03\", \"team\": \"Crvena Zvezda\", \"player\": \"Codi Miller-McIntyre\", \"action\": \"steal\", \"result\": \"n/a\"}",
+    "lang_en": "Miller-McIntyre rips the ball loose in the dying seconds!",
+    "lang_tr": "Miller-McIntyre son saniyelerde topu rakibinden söküp aldı!"
+  },
+  {
+    "input_json": "{\"time\": \"00:01\", \"team\": \"Crvena Zvezda\", \"player\": \"Dejan Davidovac\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Davidovac heaves a desperation shot at the buzzer... no good!",
+    "lang_tr": "Davidovac son saniyede umutsuz bir atış denedi... ama olmadı!"
+  },
+  {
+    "input_json": "{\"time\": \"00:00\", \"team\": \"System\", \"player\": \"System\", \"action\": \"end_game\", \"result\": \"n/a\"}",
+    "lang_en": "The final buzzer sounds on an incredible matchup here in Belgrade!",
+    "lang_tr": "Belgrad'daki bu inanılmaz maçta son düdük çalıyor!"
+  },
+  {
+    "input_json": "{\"time\": \"Q1 09:45\", \"team\": \"Olympiacos\", \"player\": \"Thomas Walkup\", \"action\": \"drive\", \"result\": \"make\"}",
+    "lang_en": "Walkup finds a lane, drives hard to the basket, and finishes strong off the glass!",
+    "lang_tr": "Walkup savunmanın ortasını yarıp potaya gitti ve turnikeyi bıraktı!"
+  },
+  {
+    "input_json": "{\"time\": \"Q1 09:22\", \"team\": \"Real Madrid\", \"player\": \"Facunda Campazzo\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Campazzo tries to answer immediately from deep but clanks it off the back rim.",
+    "lang_tr": "Campazzo cevap vermek için üçlüğü yolladı ama top çemberden sekti."
+  },
+  {
+    "input_json": "{\"time\": \"Q1 09:18\", \"team\": \"Olympiacos\", \"player\": \"Donta Hall\", \"action\": \"rebound\", \"result\": \"make\"}",
+    "lang_en": "Donta Hall rises above everyone to snag the defensive board.",
+    "lang_tr": "Donta Hall herkesin üzerine çıkarak savunma ribaundunu alıyor."
+  },
+  {
+    "input_json": "{\"time\": \"Q1 08:55\", \"team\": \"Olympiacos\", \"player\": \"Tyler Dorsey\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Dorsey spots up in the corner, releases, and splash! Nothing but net!",
+    "lang_tr": "Dorsey köşeden boşluğu buldu, şutunu attı ve isabet! Deliksiz!"
+  },
+  {
+    "input_json": "{\"time\": \"Q1 08:30\", \"team\": \"Real Madrid\", \"player\": \"Walter Tavares\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Tavares catches the lob inside and throws it down with authority!",
+    "lang_tr": "Tavares içeride pası yakaladı ve potayı sarsan bir smaç vurdu!"
+  },
+  {
+    "input_json": "{\"time\": \"Q1 08:10\", \"team\": \"Olympiacos\", \"player\": \"Kostas Papanikolou\", \"action\": \"turnover\", \"result\": \"miss\"}",
+    "lang_en": "Papanikolou tries a cross-court pass but throws it straight out of bounds.",
+    "lang_tr": "Papanikolou sahanın diğer ucuna pas denedi ama top doğrudan dışarı çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"Q1 07:45\", \"team\": \"Real Madrid\", \"player\": \"Gabriel Deck\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Deck muscles his way into the paint and kisses it off the window for two.",
+    "lang_tr": "Deck boyalı alanda vücudunu kullanarak kendine yer açtı ve sayıyı buldu."
+  },
+  {
+    "input_json": "{\"time\": \"Q1 07:20\", \"team\": \"Olympiacos\", \"player\": \"Tyson Ward\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Ward steps back for a three, but it's short and hits the front iron.",
+    "lang_tr": "Ward geriye çekilip üçlüğü denedi ama şut kısa kaldı."
+  },
+  {
+    "input_json": "{\"time\": \"Q1 06:55\", \"team\": \"Real Madrid\", \"player\": \"Sergio Llull\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Llull from way downtown! That's a classic 'Mandarina' right there!",
+    "lang_tr": "Llull çok uzaklardan gönderiyor! Klasik bir Sergio Llull mandalinası!"
+  },
+  {
+    "input_json": "{\"time\": \"Q1 06:30\", \"team\": \"Olympiacos\", \"player\": \"Donta Hall\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Another alley-oop! Hall catches it at the apex and slams it home!",
+    "lang_tr": "Bir alley-oop daha! Hall havada yakaladı ve müthiş bir smaçla bitirdi!"
+  },
+  {
+    "input_json": "{\"time\": \"Q1 06:05\", \"team\": \"Real Madrid\", \"player\": \"Andres Feliz\", \"action\": \"drive\", \"result\": \"miss\"}",
+    "lang_en": "Feliz attacks the rim aggressively but gets rejected by the defense.",
+    "lang_tr": "Feliz potaya agresif bir şekilde yüklendi ama savunma ona geçit vermedi."
+  },
+  {
+    "input_json": "{\"time\": \"Q1 05:40\", \"team\": \"Olympiacos\", \"player\": \"Thomas Walkup\", \"action\": \"steal\", \"result\": \"make\"}",
+    "lang_en": "Walkup picks the pocket! He's racing down the court for the transition opportunity.",
+    "lang_tr": "Walkup topu çaldı! Şimdi hızlı hücum fırsatı için sahayı koşuyor."
+  },
+  {
+    "input_json": "{\"time\": \"Q1 05:35\", \"team\": \"Olympiacos\", \"player\": \"Tyler Dorsey\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Dorsey finishes the fast break with a silky smooth finger roll.",
+    "lang_tr": "Dorsey hızlı hücumu kadife bilekleriyle, şık bir turnikeyle bitirdi."
+  },
+  {
+    "input_json": "{\"time\": \"Q2 09:50\", \"team\": \"Real Madrid\", \"player\": \"Facunda Campazzo\", \"action\": \"assist\", \"result\": \"make\"}",
+    "lang_en": "Magic from Campazzo! He threads the needle to find the open man.",
+    "lang_tr": "Campazzo'dan büyüleyici bir pas! İğne deliğinden geçirerek boş arkadaşını buldu."
+  },
+  {
+    "input_json": "{\"time\": \"Q2 09:30\", \"team\": \"Real Madrid\", \"player\": \"Walter Tavares\", \"action\": \"block\", \"result\": \"make\"}",
+    "lang_en": "Not in his house! Tavares swats that shot into the third row!",
+    "lang_tr": "Burası onun evi! Tavares şutu tribünlere gönderiyor, müthiş bir blok!"
+  },
+  {
+    "input_json": "{\"time\": \"Q2 09:05\", \"team\": \"Olympiacos\", \"player\": \"Kostas Papanikolou\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Papanikolou sets his feet and drills the triple from the wing.",
+    "lang_tr": "Papanikolou ayaklarını kurdu ve kanattan üçlüğü gönderdi, isabet!"
+  },
+  {
+    "input_json": "{\"time\": \"Q2 08:40\", \"team\": \"Real Madrid\", \"player\": \"Sergio Llull\", \"action\": \"drive\", \"result\": \"miss\"}",
+    "lang_en": "Llull drives left, puts up a floater, but it rolls off the rim.",
+    "lang_tr": "Llull sola vurdu, gözyaşı damlasını bıraktı ama top çemberden çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"Q2 08:15\", \"team\": \"Olympiacos\", \"player\": \"Tyson Ward\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Ward cuts baseline and throws down a thunderous jam!",
+    "lang_tr": "Ward dip çizgiden kat etti ve potayı kıran bir smaç vurdu!"
+  },
+  {
+    "input_json": "{\"time\": \"Q2 07:50\", \"team\": \"Real Madrid\", \"player\": \"Gabriel Deck\", \"action\": \"post_up\", \"result\": \"make\"}",
+    "lang_en": "Deck backs down his defender and connects on the turnaround jumper.",
+    "lang_tr": "Deck rakibini sırtına aldı, döndü ve şutunda isabeti buldu."
+  },
+  {
+    "input_json": "{\"time\": \"Q2 07:25\", \"team\": \"Olympiacos\", \"player\": \"Tyler Dorsey\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Dorsey heats check... no good, that one was a bit forced.",
+    "lang_tr": "Dorsey el yakan bir şut denedi... başarısız, biraz zorlama bir atıştı."
+  },
+  {
+    "input_json": "{\"time\": \"Q2 07:00\", \"team\": \"Real Madrid\", \"player\": \"Andres Feliz\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Feliz makes them pay for going under the screen! Three points!",
+    "lang_tr": "Feliz perdenin altından geçen savunmayı cezalandırıyor! Üç sayı!"
+  },
+  {
+    "input_json": "{\"time\": \"Q2 06:35\", \"team\": \"Olympiacos\", \"player\": \"Donta Hall\", \"action\": \"block\", \"result\": \"make\"}",
+    "lang_en": "Huge defensive play by Hall! He denies the layup at the rim.",
+    "lang_tr": "Hall'dan devasa bir savunma hamlesi! Pota dibinde turnikeye izin vermedi."
+  },
+  {
+    "input_json": "{\"time\": \"Q2 06:10\", \"team\": \"Real Madrid\", \"player\": \"Walter Tavares\", \"action\": \"rebound\", \"result\": \"make\"}",
+    "lang_en": "Tavares is a magnet for the ball, grabbing another offensive board.",
+    "lang_tr": "Tavares topu mıknatıs gibi çekiyor, bir hücum ribaundu daha aldı."
+  },
+  {
+    "input_json": "{\"time\": \"Q2 05:45\", \"team\": \"Real Madrid\", \"player\": \"Facunda Campazzo\", \"action\": \"drive\", \"result\": \"make\"}",
+    "lang_en": "Campazzo weaves through traffic and finishes with a crafty scoop layup.",
+    "lang_tr": "Campazzo trafiğin içinden süzüldü ve kurnaz bir turnikeyle bitirdi."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 09:50\", \"team\": \"Olympiacos\", \"player\": \"Thomas Walkup\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Walkup left wide open, he fires, but it's an airball.",
+    "lang_tr": "Walkup bomboş kaldı, ateşledi ama top çembere bile değmedi, airball."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 09:25\", \"team\": \"Real Madrid\", \"player\": \"Sergio Llull\", \"action\": \"turnover\", \"result\": \"miss\"}",
+    "lang_en": "Llull loses his handle on the dribble, careless mistake.",
+    "lang_tr": "Llull top sürerken kontrolü kaybetti, dikkatsiz bir hata."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 09:00\", \"team\": \"Olympiacos\", \"player\": \"Kostas Papanikolou\", \"action\": \"steal\", \"result\": \"make\"}",
+    "lang_en": "Papanikolou reads the passing lane perfectly and intercepts the ball.",
+    "lang_tr": "Papanikolou pas kanalını harika okudu ve topu kaptı."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 08:35\", \"team\": \"Olympiacos\", \"player\": \"Tyler Dorsey\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Dorsey explodes to the rim and finishes with a one-handed slam!",
+    "lang_tr": "Dorsey potaya patlayıcı bir giriş yaptı ve tek elle smacı vurdu!"
+  },
+  {
+    "input_json": "{\"time\": \"Q3 08:10\", \"team\": \"Real Madrid\", \"player\": \"Gabriel Deck\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Deck from the corner... just a bit long off the heel.",
+    "lang_tr": "Deck köşeden denedi... top çemberin arkasına çarpıp çıktı."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 07:45\", \"team\": \"Real Madrid\", \"player\": \"Walter Tavares\", \"action\": \"tip_in\", \"result\": \"make\"}",
+    "lang_en": "Tavares creates a second chance and tips it in effortlessly.",
+    "lang_tr": "Tavares ikinci şansı yarattı ve topu parmak ucuyla tamamladı."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 07:20\", \"team\": \"Olympiacos\", \"player\": \"Tyson Ward\", \"action\": \"foul\", \"result\": \"miss\"}",
+    "lang_en": "Ward gets caught reaching in and is whistled for the foul.",
+    "lang_tr": "Ward topa hamle yaparken yakalandı ve faul düdüğü çaldı."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 06:55\", \"team\": \"Real Madrid\", \"player\": \"Andres Feliz\", \"action\": \"free_throw\", \"result\": \"make\"}",
+    "lang_en": "Feliz steps to the line and calmly sinks the first free throw.",
+    "lang_tr": "Feliz çizgiye geldi ve ilk serbest atışı soğukkanlılıkla sayıya çevirdi."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 06:30\", \"team\": \"Olympiacos\", \"player\": \"Donta Hall\", \"action\": \"hook_shot\", \"result\": \"miss\"}",
+    "lang_en": "Hall tries a little baby hook in the lane but puts too much muscle on it.",
+    "lang_tr": "Hall pota önünde çengel atışı denedi ama topu çok sert bıraktı."
+  },
+  {
+    "input_json": "{\"time\": \"Q3 06:05\", \"team\": \"Real Madrid\", \"player\": \"Facunda Campazzo\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Campazzo pulls up in transition... BANG! He buries the three!",
+    "lang_tr": "Campazzo geçiş hücumunda el üstü gönderdi... İSABET! Üçlüğü gömdü!"
+  },
+  {
+    "input_json": "{\"time\": \"Q4 09:40\", \"team\": \"Olympiacos\", \"player\": \"Thomas Walkup\", \"action\": \"assist\", \"result\": \"make\"}",
+    "lang_en": "Walkup draws the defense and dishes a beautiful pass for the easy bucket.",
+    "lang_tr": "Walkup savunmayı üzerine çekti ve kolay sayı için harika bir pas çıkardı."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 09:15\", \"team\": \"Real Madrid\", \"player\": \"Sergio Llull\", \"action\": \"mid_range\", \"result\": \"make\"}",
+    "lang_en": "Llull uses the screen, pulls up from the elbow, and swishes it.",
+    "lang_tr": "Llull perdeden çıktı, dirsekten şutunu kaldırdı ve fileyi havalandırdı."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 08:50\", \"team\": \"Olympiacos\", \"player\": \"Kostas Papanikolou\", \"action\": \"layup\", \"result\": \"miss\"}",
+    "lang_en": "Papanikolou drives baseline but gets trapped under the rim.",
+    "lang_tr": "Papanikolou dip çizgiden yüklendi ama pota altında sıkıştı."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 08:25\", \"team\": \"Real Madrid\", \"player\": \"Walter Tavares\", \"action\": \"dunk\", \"result\": \"make\"}",
+    "lang_en": "Monster jam by Tavares! He nearly tore the rim down!",
+    "lang_tr": "Tavares'ten canavarca bir smaç! Neredeyse potayı aşağı indirecekti!"
+  },
+  {
+    "input_json": "{\"time\": \"Q4 08:00\", \"team\": \"Olympiacos\", \"player\": \"Tyler Dorsey\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Dorsey answers back with a huge triple! The crowd goes wild!",
+    "lang_tr": "Dorsey dev bir üçlükle cevap veriyor! Tribünler ayağa kalktı!"
+  },
+  {
+    "input_json": "{\"time\": \"Q4 07:35\", \"team\": \"Real Madrid\", \"player\": \"Gabriel Deck\", \"action\": \"steal\", \"result\": \"make\"}",
+    "lang_en": "Deck anticipates the pass, steals it, and heads the other way.",
+    "lang_tr": "Deck pası sezdi, araya girdi ve topu kaptığı gibi karşı sahaya yöneldi."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 07:10\", \"team\": \"Real Madrid\", \"player\": \"Andres Feliz\", \"action\": \"layup\", \"result\": \"make\"}",
+    "lang_en": "Feliz shows great body control to finish the layup through contact.",
+    "lang_tr": "Feliz temasa rağmen harika bir vücut kontrolüyle turnikeyi bitirdi."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 06:45\", \"team\": \"Olympiacos\", \"player\": \"Tyson Ward\", \"action\": \"rebound\", \"result\": \"make\"}",
+    "lang_en": "Ward battles inside and secures a crucial defensive rebound.",
+    "lang_tr": "Ward içeride savaştı ve çok kritik bir savunma ribaundu aldı."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 06:20\", \"team\": \"Olympiacos\", \"player\": \"Donta Hall\", \"action\": \"foul\", \"result\": \"miss\"}",
+    "lang_en": "Hall commits a frustration foul to stop the clock.",
+    "lang_tr": "Hall saati durdurmak için taktiksel bir faul yapıyor."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 05:55\", \"team\": \"Real Madrid\", \"player\": \"Facunda Campazzo\", \"action\": \"turnover\", \"result\": \"miss\"}",
+    "lang_en": "Campazzo tries a flashy behind-the-back pass but it sails out of bounds.",
+    "lang_tr": "Campazzo arkadan gösterişli bir pas denedi ama top tribünlere gitti."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 05:30\", \"team\": \"Olympiacos\", \"player\": \"Thomas Walkup\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "Big time shot! Walkup drains the three to tie the game!",
+    "lang_tr": "Büyük bir şut! Walkup üçlüğü gönderdi ve maça dengeyi getirdi!"
+  },
+  {
+    "input_json": "{\"time\": \"Q4 05:05\", \"team\": \"Real Madrid\", \"player\": \"Sergio Llull\", \"action\": \"3pt_shot\", \"result\": \"miss\"}",
+    "lang_en": "Llull tries to play hero ball with a deep three but it won't go.",
+    "lang_tr": "Llull kahramanlığa soyundu, çok uzaklardan attı ama isabet yok."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 04:40\", \"team\": \"Olympiacos\", \"player\": \"Kostas Papanikolou\", \"action\": \"drive\", \"result\": \"make\"}",
+    "lang_en": "Papanikolou sees an opening, drives left, and banks it in.",
+    "lang_tr": "Papanikolou koridoru gördü, sola vurdu ve panyalı atışla sayıyı buldu."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 04:15\", \"team\": \"Real Madrid\", \"player\": \"Walter Tavares\", \"action\": \"block\", \"result\": \"make\"}",
+    "lang_en": "Tavares says NO! A massive rejection at the rim!",
+    "lang_tr": "Tavares HAYIR diyor! Pota dibinde geçit vermeyen bir blok!"
+  },
+  {
+    "input_json": "{\"time\": \"Q4 03:50\", \"team\": \"Real Madrid\", \"player\": \"Gabriel Deck\", \"action\": \"mid_range\", \"result\": \"miss\"}",
+    "lang_en": "Deck pulls up from mid-range but the shot is flat.",
+    "lang_tr": "Deck orta mesafeden şutunu kullandı ama atış çok düz gitti."
+  },
+  {
+    "input_json": "{\"time\": \"Q4 00:02\", \"team\": \"Real Madrid\", \"player\": \"Sergio Llull\", \"action\": \"3pt_shot\", \"result\": \"make\"}",
+    "lang_en": "AT THE BUZZER! Sergio Llull wins it with an incredible shot!",
+    "lang_tr": "SON SANİYEDE! Sergio Llull inanılmaz bir şutla maçı kazandırıyor!"
+  }
+]
