@@ -2,7 +2,7 @@
 
 > **"Watching with Ears":** A Generative AI pipeline capable of producing real-time, bilingual (Turkish/English) basketball commentary for visually impaired fans.
 
-![License](https://img.shields.io/badge/license-MIT-blue) ![Model](https://img.shields.io/badge/Model-Llama--3--8B-green) ![Framework](https://img.shields.io/badge/Framework-Unsloth-orange) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Weights-yellow)](https://huggingface.co/YOUR_HF_USERNAME/euroleague-narrator)
+![License](https://img.shields.io/badge/license-MIT-blue) ![Model](https://img.shields.io/badge/Model-Llama--3--8B-green) ![Framework](https://img.shields.io/badge/Framework-Unsloth-orange) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Weights-yellow)](https://huggingface.co/AhmetYusufOzturk/llama3-basketball-commentator)
 
 ## 📌 Project Overview
 The intersection of Sports Analytics and Generative AI offers a unique opportunity to enhance the spectator experience. While data visualization tools are common, they fail to convey the emotional flow of a game to those who cannot see it.
